@@ -76,6 +76,12 @@ class SourceRepository:
 
     @staticmethod
     def _row_to_source(d: dict) -> Source:
+        created_at = d.get("created_at")
+        if isinstance(created_at, str):
+            created_at = datetime.fromisoformat(created_at)
+        elif not isinstance(created_at, datetime):
+            created_at = datetime.utcnow()
+
         return Source(
             source_id=d["source_id"],
             title=d["title"],
@@ -91,7 +97,7 @@ class SourceRepository:
             ingestion_status=IngestionStatus(
                 d.get("ingestion_status", IngestionStatus.PENDING.value)
             ),
-            created_at=datetime.fromisoformat(d["created_at"]),
+            created_at=created_at,
             source_uri=d.get("source_uri"),
             file_sha256=d.get("file_sha256"),
         )

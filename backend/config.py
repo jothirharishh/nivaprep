@@ -15,6 +15,7 @@ def sanitize_database_url(url: str) -> str:
     """Normalize and sanitize PostgreSQL / Supabase connection strings."""
     if not url:
         return ""
+    from urllib.parse import quote_plus, unquote
     url = url.strip().strip("'").strip('"')
     if url.startswith("postgres://"):
         url = "postgresql://" + url[len("postgres://"):]
@@ -24,7 +25,7 @@ def sanitize_database_url(url: str) -> str:
         prefix, user, raw_pass, host_port, dbname, query = match.groups()
         if raw_pass.startswith("[") and raw_pass.endswith("]"):
             raw_pass = raw_pass[1:-1]
-        clean_pass = quote_plus(raw_pass)
+        clean_pass = quote_plus(unquote(raw_pass))
         dbname = dbname or "/postgres"
         if dbname == "/postgress":
             dbname = "/postgres"

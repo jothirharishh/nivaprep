@@ -184,6 +184,16 @@ class QuestionRepository:
         import sqlite3  # local import to avoid circular
 
         d = dict(row) if isinstance(row, sqlite3.Row) else row
+
+        def _parse_dt(val):
+            if val is None:
+                return None
+            if isinstance(val, str):
+                return datetime.fromisoformat(val)
+            if isinstance(val, datetime):
+                return val
+            return datetime.utcnow()
+
         return Question(
             question_id=d["question_id"],
             subject_id=d["subject_id"],
@@ -202,11 +212,11 @@ class QuestionRepository:
             review_status=ReviewStatus(d["review_status"]),
             review_notes=d.get("review_notes"),
             reviewed_by=d.get("reviewed_by"),
-            reviewed_at=datetime.fromisoformat(d["reviewed_at"]) if d.get("reviewed_at") else None,
+            reviewed_at=_parse_dt(d.get("reviewed_at")),
             model_provider=d.get("model_provider"),
             model_id=d.get("model_id"),
             prompt_version=d.get("prompt_version"),
             content_version=int(d.get("content_version", 1)),
-            created_at=datetime.fromisoformat(d["created_at"]),
-            updated_at=datetime.fromisoformat(d["updated_at"]),
+            created_at=_parse_dt(d.get("created_at")) or datetime.utcnow(),
+            updated_at=_parse_dt(d.get("updated_at")) or datetime.utcnow(),
         )

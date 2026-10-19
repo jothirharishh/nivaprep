@@ -43,11 +43,15 @@ def create_app() -> Flask:
     set_database_path(cfg.database_path)
     init_db()
 
-    # ── Blueprints ────────────────────────────────────────────────────────────
+    # ── Blueprints (/v1 canonical and /api alias) ──────────────────────────────
     app.register_blueprint(questions_bp)
+    app.register_blueprint(questions_bp, url_prefix="/api", name="questions_api")
     app.register_blueprint(textbook_qa_bp)
+    app.register_blueprint(textbook_qa_bp, url_prefix="/api", name="textbook_qa_api")
     app.register_blueprint(admin_generation_bp)
+    app.register_blueprint(admin_generation_bp, url_prefix="/api", name="admin_generation_api")
     app.register_blueprint(live_generation_bp)
+    app.register_blueprint(live_generation_bp, url_prefix="/api", name="live_generation_api")
 
     # ── Health endpoint ───────────────────────────────────────────────────────
     @app.get("/health")

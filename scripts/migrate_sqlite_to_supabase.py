@@ -101,7 +101,10 @@ def migrate_chapters(sqlite_conn, pg_conn):
                     title, start_pdf_page, end_pdf_page, status
                 ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
                 ON CONFLICT (chapter_id) DO UPDATE SET
+                    chapter_number = EXCLUDED.chapter_number,
                     title = EXCLUDED.title,
+                    start_pdf_page = EXCLUDED.start_pdf_page,
+                    end_pdf_page = EXCLUDED.end_pdf_page,
                     status = EXCLUDED.status;
             """, (
                 r["chapter_id"], r["source_id"], r["subject_id"], r["chapter_number"],

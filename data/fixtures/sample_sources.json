@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "src_tn_tam_10_2025",
+    "title": "Class 10 Tamil (Tamil Medium)",
+    "subject_id": "tamil",
+    "medium": "Tamil",
+    "board": "Tamil Nadu State Board",
+    "curriculum": "Samacheer Kalvi",
+    "class_level": 10,
+    "edition": "2025",
+    "publisher": "Tamil Nadu Textbook and Educational Services Corporation",
+    "rights_status": "public_terms_reviewed",
+    "rights_notes": "Official state textbook for educational practice under fair dealing",
+    "ingestion_status": "completed"
+  },
+  {
+    "source_id": "src_tn_eng_10_2024",
+    "title": "Class 10 English (English Medium)",
+    "subject_id": "english",
+    "medium": "English",
+    "board": "Tamil Nadu State Board",
+    "curriculum": "Samacheer Kalvi",
+    "class_level": 10,
+    "edition": "2024",
+    "publisher": "Tamil Nadu Textbook and Educational Services Corporation",
+    "rights_status": "public_terms_reviewed",
+    "rights_notes": "Official state textbook for educational practice under fair dealing",
+    "ingestion_status": "completed"
+  },
+  {
+    "source_id": "src_tn_mat_10_2025",
+    "title": "Class 10 Mathematics (English Medium)",
+    "subject_id": "mathematics",
+    "medium": "English",
+    "board": "Tamil Nadu State Board",
+    "curriculum": "Samacheer Kalvi",
+    "class_level": 10,
+    "edition": "2025",
+    "publisher": "Tamil Nadu Textbook and Educational Services Corporation",
+    "rights_status": "public_terms_reviewed",
+    "rights_notes": "Official state textbook for educational practice under fair dealing",
+    "ingestion_status": "completed"
+  },
+  {
+    "source_id": "src_tn_sci_10_2024",
+    "title": "Class 10 Science (English Medium)",
+    "subject_id": "science",
+    "medium": "English",
+    "board": "Tamil Nadu State Board",
+    "curriculum": "Samacheer Kalvi",
+    "class_level": 10,
+    "edition": "2024",
+    "publisher": "Tamil Nadu Textbook and Educational Services Corporation",
+    "rights_status": "public_terms_reviewed",
+    "rights_notes": "Official state textbook for educational practice under fair dealing",
+    "ingestion_status": "completed"
+  },
+  {
+    "source_id": "src_tn_soc_10_2025",
+    "title": "Class 10 Social Science (English Medium)",
+    "subject_id": "social_science",
+    "medium": "English",
+    "board": "Tamil Nadu State Board",
+    "curriculum": "Samacheer Kalvi",
+    "class_level": 10,
+    "edition": "2025",
+    "publisher": "Tamil Nadu Textbook and Educational Services Corporation",
+    "rights_status": "public_terms_reviewed",
+    "rights_notes": "Official state textbook for educational practice under fair dealing",
+    "ingestion_status": "completed"
+  }
+]

@@ -1,0 +1,65 @@
+# ─── Secrets & environment ───────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ─── Raw & processed textbook data (never commit) ────────────────────────────
+data/raw/
+data/processed/
+EN/
+*.pdf
+
+# ─── FAISS indexes & embeddings ───────────────────────────────────────────────
+*.faiss
+*.index
+*.npy
+backend/rag/indexes/
+
+# ─── SQLite databases ─────────────────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# ─── Flutter / Dart ───────────────────────────────────────────────────────────
+app/.dart_tool/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.packages
+app/build/
+app/android/.gradle/
+app/android/local.properties
+app/android/key.properties
+app/*.iml
+app/.idea/
+*.g.dart
+
+# ─── IDEs ─────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ─── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

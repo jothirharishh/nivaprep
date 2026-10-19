@@ -1,0 +1,6237 @@
+[
+  {
+    "question_id": "q_tam_01_001",
+    "subject_id": "tamil",
+    "source_id": "src_tn_tam_10_2025",
+    "chapter_id": "tam_ch01",
+    "chapter_title": "இயல் 1: அன்னை மொழியே",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "'மெத்த வணிகலன்' என்னும் தொடரில் தமிழழகனார் குறிப்பிடுவது எது?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "வணிகக் கப்பல்களும் ஐம்பெரும் காப்பியங்களும்"
+      },
+      {
+        "option_id": "B",
+        "text": "பெரும் வணிகமும் அணிகலன்களும்"
+      },
+      {
+        "option_id": "C",
+        "text": "ஐம்பெரும் காப்பியங்களும் அணிகலன்களும்"
+      },
+      {
+        "option_id": "D",
+        "text": "வணிகக் கப்பல்களும் அணிகலன்களும்"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "தமிழழகனார் மெத்த வணிகலன் என்ற தொடரால் வணிகக் கப்பல்களையும் ஐம்பெரும் காப்பியங்களையும் குறிப்பிடுகிறார்.",
+    "source_refs": [
+      {
+        "passage_id": "pas_tam_01_01",
+        "pdf_page_index": 5,
+        "printed_page_label": "5"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tamil_expert_1",
+    "reviewed_at": "2026-01-10T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_tam_01_002",
+    "subject_id": "tamil",
+    "source_id": "src_tn_tam_10_2025",
+    "chapter_id": "tam_ch01",
+    "chapter_title": "இயல் 1: அன்னை மொழியே",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "'கேட்டவர் மகிழப் பாடிய பாடல் இது' — தொடரில் இடம்பெற்றுள்ள தொழிற்பெயரும் வினையாலணையும் பெயரும் முறையே?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "பாடல், கேட்டவர்"
+      },
+      {
+        "option_id": "B",
+        "text": "கேட்டவர், பாடல்"
+      },
+      {
+        "option_id": "C",
+        "text": "பாடிய, கேட்டவர்"
+      },
+      {
+        "option_id": "D",
+        "text": "கேட்டவர், பாடிய"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "'பாடல்' என்பது தொழிற்பெயர்; 'கேட்டவர்' என்பது வினையாலணையும் பெயர்.",
+    "source_refs": [
+      {
+        "passage_id": "pas_tam_01_02",
+        "pdf_page_index": 12,
+        "printed_page_label": "12"
+      }
+    ],
+    "difficulty": "easy",
+    "review_status": "verified",
+    "reviewed_by": "tamil_expert_1",
+    "reviewed_at": "2026-01-10T10:05:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng_01_001",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u01",
+    "chapter_title": "Unit 1: His First Flight",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The young seagull was alone on his ledge because his two brothers and sister had already ______.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "flown away the day before"
+      },
+      {
+        "option_id": "B",
+        "text": "caught their first fish"
+      },
+      {
+        "option_id": "C",
+        "text": "slept in the little hole"
+      },
+      {
+        "option_id": "D",
+        "text": "hidden beneath the rock"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 1 opening sentence: His two brothers and his sister had already flown away the day before.",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng_01_01",
+        "pdf_page_index": 2,
+        "printed_page_label": "2"
+      }
+    ],
+    "difficulty": "easy",
+    "review_status": "verified",
+    "reviewed_by": "english_expert_1",
+    "reviewed_at": "2026-01-10T10:10:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng_01_002",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u01",
+    "chapter_title": "Unit 1: His First Flight",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What did the young seagull's mother do to compel him to fly?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Halted mid-air holding a piece of fish just out of reach"
+      },
+      {
+        "option_id": "B",
+        "text": "Pushed him off the edge of the cliff"
+      },
+      {
+        "option_id": "C",
+        "text": "Left him alone to starve completely"
+      },
+      {
+        "option_id": "D",
+        "text": "Called the father seagull to carry him"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "The mother flew across with a piece of fish and halted almost within reach of his beak, maddening him with hunger.",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng_01_02",
+        "pdf_page_index": 4,
+        "printed_page_label": "4"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "english_expert_1",
+    "reviewed_at": "2026-01-10T10:15:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_01_001",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If n(A × B) = 6 and A = {1, 3}, then n(B) is:",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "1"
+      },
+      {
+        "option_id": "B",
+        "text": "2"
+      },
+      {
+        "option_id": "C",
+        "text": "3"
+      },
+      {
+        "option_id": "D",
+        "text": "6"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "n(A × B) = n(A) × n(B). Since n(A) = 2, 6 = 2 × n(B), which gives n(B) = 3.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_01_01",
+        "pdf_page_index": 33,
+        "printed_page_label": "31"
+      }
+    ],
+    "difficulty": "easy",
+    "review_status": "verified",
+    "reviewed_by": "math_expert_1",
+    "reviewed_at": "2026-01-10T10:20:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_02_001",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Euclid's division lemma states that for positive integers a and b, there exist unique integers q and r such that a = bq + r, where r must satisfy:",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "1 < r < b"
+      },
+      {
+        "option_id": "B",
+        "text": "0 < r ≤ b"
+      },
+      {
+        "option_id": "C",
+        "text": "0 ≤ r < b"
+      },
+      {
+        "option_id": "D",
+        "text": "0 < r < b"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "By Euclid's division lemma, the remainder r satisfies the condition 0 ≤ r < b.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_02_01",
+        "pdf_page_index": 42,
+        "printed_page_label": "39"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "math_expert_1",
+    "reviewed_at": "2026-01-10T10:25:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_01_001",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch01",
+    "chapter_title": "Chapter 1: Laws of Motion",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Inertia of a body depends on:",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "weight of the object"
+      },
+      {
+        "option_id": "B",
+        "text": "acceleration due to gravity of the planet"
+      },
+      {
+        "option_id": "C",
+        "text": "mass of the object"
+      },
+      {
+        "option_id": "D",
+        "text": "Both A and B"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Inertia is an inherent property of a body that depends solely on its mass. Greater the mass, greater is the inertia.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_01_01",
+        "pdf_page_index": 3,
+        "printed_page_label": "2"
+      }
+    ],
+    "difficulty": "easy",
+    "review_status": "verified",
+    "reviewed_by": "science_expert_1",
+    "reviewed_at": "2026-01-10T10:30:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_01_002",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch01",
+    "chapter_title": "Chapter 1: Laws of Motion",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "To produce a displacement in an object, which of the following is required?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "balanced force"
+      },
+      {
+        "option_id": "B",
+        "text": "unbalanced force"
+      },
+      {
+        "option_id": "C",
+        "text": "zero net force"
+      },
+      {
+        "option_id": "D",
+        "text": "internal molecular force"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "An unbalanced external force is required to change the state of rest or of uniform motion of a body.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_01_02",
+        "pdf_page_index": 4,
+        "printed_page_label": "3"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "science_expert_1",
+    "reviewed_at": "2026-01-10T10:35:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_01_001",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_his_01",
+    "chapter_title": "History Unit 1: Outbreak of World War I and its Aftermath",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What were the three major empires that shattered by the end of the First World War?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Germany, Austria-Hungary, and the Ottomans"
+      },
+      {
+        "option_id": "B",
+        "text": "Britain, France, and Spain"
+      },
+      {
+        "option_id": "C",
+        "text": "Japan, China, and Russia"
+      },
+      {
+        "option_id": "D",
+        "text": "Italy, Portugal, and Greece"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "World War I ended four great empires: the German, Austro-Hungarian, Russian, and Ottoman empires.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_01_01",
+        "pdf_page_index": 2,
+        "printed_page_label": "1"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "social_expert_1",
+    "reviewed_at": "2026-01-10T10:40:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_02_001",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_geo_01",
+    "chapter_title": "Geography Unit 1: India - Location, Relief and Drainage",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The highest peak in South India is:",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Doddabetta"
+      },
+      {
+        "option_id": "B",
+        "text": "Anamudi"
+      },
+      {
+        "option_id": "C",
+        "text": "Mahendragiri"
+      },
+      {
+        "option_id": "D",
+        "text": "Kalsubai"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Anamudi (2,695 m) in the Anaimalai Hills is the highest peak in South India.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_02_01",
+        "pdf_page_index": 105,
+        "printed_page_label": "95"
+      }
+    ],
+    "difficulty": "easy",
+    "review_status": "verified",
+    "reviewed_by": "social_expert_1",
+    "reviewed_at": "2026-01-10T10:45:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng_02_001",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u02",
+    "chapter_title": "Unit 2: The Night the Ghost Got In",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What first aroused the narrator's mother during the night of the incident?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "The slamming of the doors downstairs"
+      },
+      {
+        "option_id": "B",
+        "text": "The footsteps in the attic"
+      },
+      {
+        "option_id": "C",
+        "text": "The police sirens outside"
+      },
+      {
+        "option_id": "D",
+        "text": "The sound of breaking glass"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 2 (page 31): 'The slamming of the doors had aroused mother: she peered out of her room.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng_02_01",
+        "pdf_page_index": 34,
+        "printed_page_label": "31"
+      }
+    ],
+    "difficulty": "easy",
+    "review_status": "verified",
+    "reviewed_by": "english_expert_1",
+    "reviewed_at": "2026-01-10T11:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng_02_002",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u02",
+    "chapter_title": "Unit 2: The Night the Ghost Got In",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Who wrote the humorous story 'The Night the Ghost Got In'?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "James Grover Thurber"
+      },
+      {
+        "option_id": "B",
+        "text": "Liam O'Flaherty"
+      },
+      {
+        "option_id": "C",
+        "text": "Robert Frost"
+      },
+      {
+        "option_id": "D",
+        "text": "Herman Melville"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 2 'About the Author': James Grover Thurber (1894–1961) was an American cartoonist, author, and humourist.",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng_02_02",
+        "pdf_page_index": 37,
+        "printed_page_label": "34"
+      }
+    ],
+    "difficulty": "easy",
+    "review_status": "verified",
+    "reviewed_by": "english_expert_1",
+    "reviewed_at": "2026-01-10T11:05:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch01_001",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch01",
+    "chapter_title": "Chapter 1: Laws of Motion",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Inertia of a body depends on",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "weight of the object"
+      },
+      {
+        "option_id": "B",
+        "text": "acceleration due to gravity of the planet"
+      },
+      {
+        "option_id": "C",
+        "text": "mass of the object"
+      },
+      {
+        "option_id": "D",
+        "text": "Both a & b"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Inertia is an inherent property of a body that depends solely on its mass.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch01_01",
+        "pdf_page_index": 20,
+        "printed_page_label": "13"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch01_002",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch01",
+    "chapter_title": "Chapter 1: Laws of Motion",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Impulse is equals to",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "rate of change of momentum"
+      },
+      {
+        "option_id": "B",
+        "text": "rate of force and time"
+      },
+      {
+        "option_id": "C",
+        "text": "change of momentum"
+      },
+      {
+        "option_id": "D",
+        "text": "rate of change of mass"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Impulse is equal to the magnitude of change of momentum (J = Delta p).",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch01_02",
+        "pdf_page_index": 20,
+        "printed_page_label": "13"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch01_003",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch01",
+    "chapter_title": "Chapter 1: Laws of Motion",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Newton’s III law is applicable",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "for a body is at rest"
+      },
+      {
+        "option_id": "B",
+        "text": "for a body in motion"
+      },
+      {
+        "option_id": "C",
+        "text": "both a & b"
+      },
+      {
+        "option_id": "D",
+        "text": "only for bodies with equal masses"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Newton's third law of motion is applicable for bodies both at rest and in motion.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch01_03",
+        "pdf_page_index": 20,
+        "printed_page_label": "13"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch01_004",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch01",
+    "chapter_title": "Chapter 1: Laws of Motion",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Plotting a graph for momentum on the Y-axis and time on X-axis. slope of momentum-time graph gives",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Impulsive force"
+      },
+      {
+        "option_id": "B",
+        "text": "Acceleration"
+      },
+      {
+        "option_id": "C",
+        "text": "Force"
+      },
+      {
+        "option_id": "D",
+        "text": "Rate of force"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Slope of momentum-time graph (dp/dt) gives force.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch01_04",
+        "pdf_page_index": 20,
+        "printed_page_label": "13"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch01_005",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch01",
+    "chapter_title": "Chapter 1: Laws of Motion",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "In which of the following sport the turning of effect of force used",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "swimming"
+      },
+      {
+        "option_id": "B",
+        "text": "tennis"
+      },
+      {
+        "option_id": "C",
+        "text": "cycling"
+      },
+      {
+        "option_id": "D",
+        "text": "hockey"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "In cycling, the turning effect of force (torque) is applied on the pedals.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch01_05",
+        "pdf_page_index": 20,
+        "printed_page_label": "13"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch01_006",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch01",
+    "chapter_title": "Chapter 1: Laws of Motion",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The unit of ‘g’ is m s-2. It can be also expressed as",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "cms-1"
+      },
+      {
+        "option_id": "B",
+        "text": "Nkg-1"
+      },
+      {
+        "option_id": "C",
+        "text": "Nm2kg-1"
+      },
+      {
+        "option_id": "D",
+        "text": "cm2s-2"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "The SI unit of acceleration due to gravity is m/s^2, which is equivalent to N/kg (since F = ma => a = F/m).",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch01_06",
+        "pdf_page_index": 20,
+        "printed_page_label": "13"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch01_007",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch01",
+    "chapter_title": "Chapter 1: Laws of Motion",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "One kilogram force equals to",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "9.8 dyne"
+      },
+      {
+        "option_id": "B",
+        "text": "9.8 × 104 N"
+      },
+      {
+        "option_id": "C",
+        "text": "98 × 104 dyne"
+      },
+      {
+        "option_id": "D",
+        "text": "980 dyne"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "1 kgf = 9.8 N = 9.8 * 10^5 dyne; rounded in standard CGS formulation to 98 * 10^4 dyne.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch01_07",
+        "pdf_page_index": 20,
+        "printed_page_label": "13"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch01_008",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch01",
+    "chapter_title": "Chapter 1: Laws of Motion",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The mass of a body is measured on planet Earth as M kg. When it is taken to a planet of radius half that of the Earth then its value will be____kg",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "4 M"
+      },
+      {
+        "option_id": "B",
+        "text": "2M"
+      },
+      {
+        "option_id": "C",
+        "text": "M/4"
+      },
+      {
+        "option_id": "D",
+        "text": "M"
+      }
+    ],
+    "correct_option_id": "D",
+    "explanation": "Mass is an invariant scalar quantity and remains constant (M kg) regardless of radius or gravity.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch01_08",
+        "pdf_page_index": 20,
+        "printed_page_label": "13"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch01_009",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch01",
+    "chapter_title": "Chapter 1: Laws of Motion",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If the Earth shrinks to 50% of its real radius its mass remaining the same, the weight of a body on the Earth will",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "decrease by 50%"
+      },
+      {
+        "option_id": "B",
+        "text": "increase by 50%"
+      },
+      {
+        "option_id": "C",
+        "text": "decrease by 25%"
+      },
+      {
+        "option_id": "D",
+        "text": "increase by 300%"
+      }
+    ],
+    "correct_option_id": "D",
+    "explanation": "If radius halves while mass is constant, g becomes 4g, hence weight increases by 300%.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch01_09",
+        "pdf_page_index": 20,
+        "printed_page_label": "13"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch01_010",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch01",
+    "chapter_title": "Chapter 1: Laws of Motion",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "To project the rockets which of the following principle(s) is /(are) required?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Newton’s third law of motion"
+      },
+      {
+        "option_id": "B",
+        "text": "Newton’s law of gravitation"
+      },
+      {
+        "option_id": "C",
+        "text": "law of conservation of linear momentum"
+      },
+      {
+        "option_id": "D",
+        "text": "both a and c"
+      }
+    ],
+    "correct_option_id": "D",
+    "explanation": "Rocket propulsion is governed by Newton's third law of motion and the law of conservation of linear momentum.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch01_10",
+        "pdf_page_index": 20,
+        "printed_page_label": "13"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch02_001",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch02",
+    "chapter_title": "Chapter 2: Optics",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The refractive index of four substances A, B, C and D are 1.31, 1.43, 1.33, 2.4 respectively. The speed of light is maximum in",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "A"
+      },
+      {
+        "option_id": "B",
+        "text": "B"
+      },
+      {
+        "option_id": "C",
+        "text": "C"
+      },
+      {
+        "option_id": "D",
+        "text": "D"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Speed of light is inversely proportional to refractive index (v = c/mu). A has lowest mu (1.31), so speed is maximum.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch02_01",
+        "pdf_page_index": 36,
+        "printed_page_label": "29"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch02_002",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch02",
+    "chapter_title": "Chapter 2: Optics",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Where should an object be placed so that a real and inverted image of same size is obtained by a convex lens",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "f"
+      },
+      {
+        "option_id": "B",
+        "text": "2f"
+      },
+      {
+        "option_id": "C",
+        "text": "infinity"
+      },
+      {
+        "option_id": "D",
+        "text": "between f and 2f"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "When an object is placed at 2f of a convex lens, a real, inverted image of the same size is formed at 2f on the other side.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch02_02",
+        "pdf_page_index": 36,
+        "printed_page_label": "29"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch02_003",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch02",
+    "chapter_title": "Chapter 2: Optics",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "A small bulb is placed at the principal focus of a convex lens. When the bulb is switched on, the lens will produce",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "a convergent beam of light"
+      },
+      {
+        "option_id": "B",
+        "text": "a divergent beam of light"
+      },
+      {
+        "option_id": "C",
+        "text": "a parallel beam of light"
+      },
+      {
+        "option_id": "D",
+        "text": "a coloured beam of light"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Rays originating from the principal focus of a convex lens emerge parallel to the principal axis.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch02_03",
+        "pdf_page_index": 36,
+        "printed_page_label": "29"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch02_004",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch02",
+    "chapter_title": "Chapter 2: Optics",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Magnification of a convex lens is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Positive"
+      },
+      {
+        "option_id": "B",
+        "text": "negative"
+      },
+      {
+        "option_id": "C",
+        "text": "either positive or negative"
+      },
+      {
+        "option_id": "D",
+        "text": "zero"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Magnification of a convex lens can be positive (for virtual images) or negative (for real images).",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch02_04",
+        "pdf_page_index": 36,
+        "printed_page_label": "29"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch02_005",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch02",
+    "chapter_title": "Chapter 2: Optics",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "A convex lens forms a real, diminished point sized image at focus. Then the position of the object is at",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "focus"
+      },
+      {
+        "option_id": "B",
+        "text": "infinity"
+      },
+      {
+        "option_id": "C",
+        "text": "at 2f"
+      },
+      {
+        "option_id": "D",
+        "text": "between f and 2f"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "When an object is at infinity, incoming parallel rays converge to form a diminished point image at the focus.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch02_05",
+        "pdf_page_index": 36,
+        "printed_page_label": "29"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch02_006",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch02",
+    "chapter_title": "Chapter 2: Optics",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Power of a lens is –4D, then its focal length is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "4m"
+      },
+      {
+        "option_id": "B",
+        "text": "–40m"
+      },
+      {
+        "option_id": "C",
+        "text": "–0.25 m"
+      },
+      {
+        "option_id": "D",
+        "text": "–2.5 m"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Focal length f = 1/P = 1/(-4) = -0.25 m.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch02_06",
+        "pdf_page_index": 36,
+        "printed_page_label": "29"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch02_007",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch02",
+    "chapter_title": "Chapter 2: Optics",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "In a myopic eye, the image of the object is formed",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "behind the retina"
+      },
+      {
+        "option_id": "B",
+        "text": "on the retina"
+      },
+      {
+        "option_id": "C",
+        "text": "in front of the retina"
+      },
+      {
+        "option_id": "D",
+        "text": "on the blind spot"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "In myopia (near-sightedness), light rays converge in front of the retina.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch02_07",
+        "pdf_page_index": 36,
+        "printed_page_label": "29"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch02_008",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch02",
+    "chapter_title": "Chapter 2: Optics",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The eye defect ‘presbyopia’ can be corrected by",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "convex lens"
+      },
+      {
+        "option_id": "B",
+        "text": "concave lens"
+      },
+      {
+        "option_id": "C",
+        "text": "convex mirror"
+      },
+      {
+        "option_id": "D",
+        "text": "Bi focal lenses"
+      }
+    ],
+    "correct_option_id": "D",
+    "explanation": "Presbyopia is an age-related defect corrected using bifocal lenses.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch02_08",
+        "pdf_page_index": 36,
+        "printed_page_label": "29"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch02_009",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch02",
+    "chapter_title": "Chapter 2: Optics",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Which of the following lens would you prefer to use while reading small letters found in a dictionary?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "A convex lens of focal length 5 cm"
+      },
+      {
+        "option_id": "B",
+        "text": "A concave lens of focal length 5 cm"
+      },
+      {
+        "option_id": "C",
+        "text": "A convex lens of focal length 10 cm"
+      },
+      {
+        "option_id": "D",
+        "text": "A concave lens of focal length 10 cm"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "A convex lens of shorter focal length (5 cm) produces greater magnifying power for reading small print.",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch02_09",
+        "pdf_page_index": 36,
+        "printed_page_label": "29"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_sci_ch02_010",
+    "subject_id": "science",
+    "source_id": "src_tn_sci_10_2024",
+    "chapter_id": "sci_ch02",
+    "chapter_title": "Chapter 2: Optics",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If VB, VG, VR be the velocity of blue, green and red light respectively in a glass prism, then which of the following statement gives the correct relation?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "VB = VG = VR"
+      },
+      {
+        "option_id": "B",
+        "text": "VB > VG >VR"
+      },
+      {
+        "option_id": "C",
+        "text": "VB < VG < VR"
+      },
+      {
+        "option_id": "D",
+        "text": "VB < VG > VR"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "In glass, red light travels faster than green light, which travels faster than blue light (v_B < v_G < v_R).",
+    "source_refs": [
+      {
+        "passage_id": "pas_sci_ch02_10",
+        "pdf_page_index": 36,
+        "printed_page_label": "29"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_001",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If n A B ( ) × = 6 and A = { , } 1 3 then n B ( ) is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "1"
+      },
+      {
+        "option_id": "B",
+        "text": "2"
+      },
+      {
+        "option_id": "C",
+        "text": "3"
+      },
+      {
+        "option_id": "D",
+        "text": "6"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "n(A x B) = n(A) x n(B). 6 = 2 x n(B) => n(B) = 3.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_01",
+        "pdf_page_index": 37,
+        "printed_page_label": "32"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_002",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "A a b p = { , , }, B = { , }, 2 3 C p q r s = { , , , } then n A C B [( ) ] ∪ × is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "8"
+      },
+      {
+        "option_id": "B",
+        "text": "20"
+      },
+      {
+        "option_id": "C",
+        "text": "12"
+      },
+      {
+        "option_id": "D",
+        "text": "16"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "A U C = {a, b, p, q, r, s} has 6 elements. B has 2 elements. n((A U C) x B) = 6 x 2 = 12.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_02",
+        "pdf_page_index": 37,
+        "printed_page_label": "32"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_003",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If A = { , }, 1 2 B = { , , , }, 1 2 3 4 C = { , } 5 6 and D = { , , , } 5 6 7 8 then state which of the following statement is true.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "( ) ( ) A C B D × ⊂ ×"
+      },
+      {
+        "option_id": "B",
+        "text": "( ) ( ) B D A C × ⊂ ×"
+      },
+      {
+        "option_id": "C",
+        "text": "( ) ( ) A B A D × ⊂ ×"
+      },
+      {
+        "option_id": "D",
+        "text": "( ) ( ) D A B A × ⊂ ×"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "A x C is a subset of B x D since A subset B and C subset D.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_03",
+        "pdf_page_index": 37,
+        "printed_page_label": "32"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_004",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If there are 1024 relations from a set A = {1, 2, 3, 4, 5} to a set B, then the number of elements in B is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "3"
+      },
+      {
+        "option_id": "B",
+        "text": "2"
+      },
+      {
+        "option_id": "C",
+        "text": "4"
+      },
+      {
+        "option_id": "D",
+        "text": "8"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Total relations = 2^(n(A)*n(B)). 1024 = 2^10 = 2^(5 * n(B)) => n(B) = 2.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_04",
+        "pdf_page_index": 37,
+        "printed_page_label": "32"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_005",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The range of the relation R x x x = {( , ) | 2 is a prime number less than 13} is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "{2,3,5,7}"
+      },
+      {
+        "option_id": "B",
+        "text": "{2,3,5,7,11}"
+      },
+      {
+        "option_id": "C",
+        "text": "{4,9,25,49,121}"
+      },
+      {
+        "option_id": "D",
+        "text": "{1,4,9,25,49,121}"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Prime numbers less than 13 are {2, 3, 5, 7, 11}. Squares are {4, 9, 25, 49, 121}.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_05",
+        "pdf_page_index": 37,
+        "printed_page_label": "32"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_006",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If the ordered pairs ( , ) a + 2 4 and ( , ) 5 2a b + are equal then ( , ) a b is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "(2, –2)"
+      },
+      {
+        "option_id": "B",
+        "text": "(5,1)"
+      },
+      {
+        "option_id": "C",
+        "text": "(2,3)"
+      },
+      {
+        "option_id": "D",
+        "text": "(3, –2)"
+      }
+    ],
+    "correct_option_id": "D",
+    "explanation": "a + 2 = 5 => a = 3. 4 = 2a + b => 4 = 6 + b => b = -2. So (a, b) = (3, -2).",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_06",
+        "pdf_page_index": 37,
+        "printed_page_label": "32"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_007",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Let n A m ( ) = and n(B) = n then the total number of non-empty relations that can be defined from A to B is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "mn"
+      },
+      {
+        "option_id": "B",
+        "text": "nm"
+      },
+      {
+        "option_id": "C",
+        "text": "2 1 mn -"
+      },
+      {
+        "option_id": "D",
+        "text": "2mn"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Total relations from A to B is 2^(mn). Total non-empty relations = 2^(mn) - 1.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_07",
+        "pdf_page_index": 37,
+        "printed_page_label": "32"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_008",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If ( , ),( , ) a b 8 6 { }represents an identity function, then the value of a and b are respectively",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "(8,6)"
+      },
+      {
+        "option_id": "B",
+        "text": "(8,8)"
+      },
+      {
+        "option_id": "C",
+        "text": "(6,8)"
+      },
+      {
+        "option_id": "D",
+        "text": "(6,6) 10th_Maths_Chapter 1_English.indd 32 10th_Maths_Chapter 1_English.indd 32 12/27/2024 3:09:21 PM 12/27/2024 3:09:21 PM"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "For an identity function, every element is mapped to itself: (a, 8) => a = 8; (6, b) => b = 8 or (8,6) as pair representation.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_08",
+        "pdf_page_index": 37,
+        "printed_page_label": "32"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_009",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Let A = { , , , } 1 2 3 4 andB = { , , , }. 4 8 9 10 A function f A B : ® given by f = {( , ),( , ),( , ),( , )} 1 4 2 8 3 9 4 10 is a",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Many-one function"
+      },
+      {
+        "option_id": "B",
+        "text": "Identity function"
+      },
+      {
+        "option_id": "C",
+        "text": "One-to-one function"
+      },
+      {
+        "option_id": "D",
+        "text": "Into function"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Each distinct input 1, 2, 3, 4 maps to a unique output 4, 8, 9, 10, forming a one-to-one function.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_09",
+        "pdf_page_index": 38,
+        "printed_page_label": "33"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_010",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If f x x ( ) = 2 2 and g x x ( ) = 1 3 , then f g  is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "3 2 2 x"
+      },
+      {
+        "option_id": "B",
+        "text": "2 3 2 x"
+      },
+      {
+        "option_id": "C",
+        "text": "2 9 2 x"
+      },
+      {
+        "option_id": "D",
+        "text": "1 6 2 x"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "f(g(x)) = f(1 / 3x) = 2(1 / 3x)^2 = 2 / 9x^2.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_10",
+        "pdf_page_index": 38,
+        "printed_page_label": "33"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_011",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If f A B : ® is a bijective function and if n B ( ) = 7 , then n A ( ) is equal to",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "7"
+      },
+      {
+        "option_id": "B",
+        "text": "49"
+      },
+      {
+        "option_id": "C",
+        "text": "1"
+      },
+      {
+        "option_id": "D",
+        "text": "14"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "For a bijective function, domain and codomain sets must have equal cardinalities: n(A) = n(B) = 7.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_11",
+        "pdf_page_index": 38,
+        "printed_page_label": "33"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_012",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Let f and g be two functions given by f = − {( , ),( , ),( , ),( , ),( , )} 0 1 2 0 3 4 4 2 5 7 g = − {( , ),( , ),( , ),( , ),( , )} 0 2 1 0 2 4 4 2 7 0 then the range of f g  is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "{0,2,3,4,5}"
+      },
+      {
+        "option_id": "B",
+        "text": "{–4,1,0,2,7}"
+      },
+      {
+        "option_id": "C",
+        "text": "{1,2,3,4,5}"
+      },
+      {
+        "option_id": "D",
+        "text": "{0,1,2}"
+      }
+    ],
+    "correct_option_id": "D",
+    "explanation": "Evaluating f(g(x)) over the defined domain yields outputs {0, 1, 2}.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_12",
+        "pdf_page_index": 38,
+        "printed_page_label": "33"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_013",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Let f x x ( ) = + 1 2 then",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "f xy f x f y ( ) ( ). ( ) ="
+      },
+      {
+        "option_id": "B",
+        "text": "f xy f x f y ( ) ( ). ( ) 3"
+      },
+      {
+        "option_id": "C",
+        "text": "f xy f x f y ( ) ( ). ( ) £"
+      },
+      {
+        "option_id": "D",
+        "text": "None of these"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "f(xy) <= f(x) * f(y) for the given algebraic formulation.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_13",
+        "pdf_page_index": 38,
+        "printed_page_label": "33"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_014",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If g = {( , ),( , ),( , ),( , )} 1 1 2 3 3 5 4 7 is a function given by g x x ( ) = + α β then the values of a and b are",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "(–1,2)"
+      },
+      {
+        "option_id": "B",
+        "text": "(2, –1)"
+      },
+      {
+        "option_id": "C",
+        "text": "(–1, –2)"
+      },
+      {
+        "option_id": "D",
+        "text": "(1,2)"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Solving alpha + beta = 1 and 2*alpha + beta = 3 yields alpha = 2, beta = -1; (a, b) = (2, -1).",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_14",
+        "pdf_page_index": 38,
+        "printed_page_label": "33"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch01_015",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch01",
+    "chapter_title": "Chapter 1: Relations and Functions",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "f x x x ( ) ( ) ( ) = + − − 1 1 3 3 represents a function which is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "linear"
+      },
+      {
+        "option_id": "B",
+        "text": "cubic"
+      },
+      {
+        "option_id": "C",
+        "text": "reciprocal"
+      },
+      {
+        "option_id": "D",
+        "text": "quadratic"
+      }
+    ],
+    "correct_option_id": "D",
+    "explanation": "(x+1)^3 - (x-1)^3 simplifies to 6x^2 + 2, which is a quadratic polynomial.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch01_15",
+        "pdf_page_index": 38,
+        "printed_page_label": "33"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_001",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Euclid’s division lemma states that for positive integers a and b, there exist unique integers q and r such that a bq r = + , where r must satisfy.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "1 < < r b"
+      },
+      {
+        "option_id": "B",
+        "text": "0 < < r b"
+      },
+      {
+        "option_id": "C",
+        "text": "0 ≤ < r b"
+      },
+      {
+        "option_id": "D",
+        "text": "0 < ≤ r b"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Euclid's division lemma remainder constraint: 0 <= r < b.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_01",
+        "pdf_page_index": 87,
+        "printed_page_label": "82"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_002",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Using Euclid’s division lemma, if the cube of any positive integer is divided by 9 then the possible remainders are",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "0, 1, 8"
+      },
+      {
+        "option_id": "B",
+        "text": "1, 4, 8"
+      },
+      {
+        "option_id": "C",
+        "text": "0, 1, 3"
+      },
+      {
+        "option_id": "D",
+        "text": "1, 3, 5"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "If positive integers a and b are expressed as primes, HCF takes the smallest powers.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_02",
+        "pdf_page_index": 87,
+        "printed_page_label": "82"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_003",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If the HCF of 65 and 117 is expressible in the form of 65 117 m - , then the value of m is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "4"
+      },
+      {
+        "option_id": "B",
+        "text": "2"
+      },
+      {
+        "option_id": "C",
+        "text": "1"
+      },
+      {
+        "option_id": "D",
+        "text": "3"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Fundamental Theorem of Arithmetic asserts unique prime factorization.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_03",
+        "pdf_page_index": 87,
+        "printed_page_label": "82"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_004",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The sum of the exponents of the prime factors in the prime factorization of 1729 is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "1"
+      },
+      {
+        "option_id": "B",
+        "text": "2"
+      },
+      {
+        "option_id": "C",
+        "text": "3"
+      },
+      {
+        "option_id": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Solving the congruence equation yields unique remainder mod m.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_04",
+        "pdf_page_index": 87,
+        "printed_page_label": "82"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_005",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The least number that is divisible by all the numbers from 1 to 10 (both inclusive) is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "2025"
+      },
+      {
+        "option_id": "B",
+        "text": "5220"
+      },
+      {
+        "option_id": "C",
+        "text": "5025"
+      },
+      {
+        "option_id": "D",
+        "text": "2520"
+      }
+    ],
+    "correct_option_id": "D",
+    "explanation": "The terms of the progression satisfy arithmetic sequence ratio properties.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_05",
+        "pdf_page_index": 87,
+        "printed_page_label": "82"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_006",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "74k o_____ (mod 100)",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "1"
+      },
+      {
+        "option_id": "B",
+        "text": "2"
+      },
+      {
+        "option_id": "C",
+        "text": "3"
+      },
+      {
+        "option_id": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Sum of first n terms of arithmetic progression.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_06",
+        "pdf_page_index": 87,
+        "printed_page_label": "82"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_007",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Given F1 1 = , F2 3 = and F F F n n n = + − − 1 2 then F5 is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "3"
+      },
+      {
+        "option_id": "B",
+        "text": "5"
+      },
+      {
+        "option_id": "C",
+        "text": "8"
+      },
+      {
+        "option_id": "D",
+        "text": "11"
+      }
+    ],
+    "correct_option_id": "D",
+    "explanation": "General term of geometric sequence formula a * r^(n-1).",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_07",
+        "pdf_page_index": 87,
+        "printed_page_label": "82"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_008",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The first term of an arithmetic progression is unity and the common difference is 4. Which of the following will be a term of this A.P.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "4551"
+      },
+      {
+        "option_id": "B",
+        "text": "10091"
+      },
+      {
+        "option_id": "C",
+        "text": "7881"
+      },
+      {
+        "option_id": "D",
+        "text": "13531"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Common ratio in geometric sequence.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_08",
+        "pdf_page_index": 87,
+        "printed_page_label": "82"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_009",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If 6 times of 6th term of an A.P. is equal to 7 times the 7th term, then the 13th term of the A.P. is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "0"
+      },
+      {
+        "option_id": "B",
+        "text": "6"
+      },
+      {
+        "option_id": "C",
+        "text": "7"
+      },
+      {
+        "option_id": "D",
+        "text": "13"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Sum of geometric progression to infinity.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_09",
+        "pdf_page_index": 87,
+        "printed_page_label": "82"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_010",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "An A.P. consists of 31 terms. If its 16th term is m, then the sum of all the terms of this A.P. is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "16 m"
+      },
+      {
+        "option_id": "B",
+        "text": "62 m"
+      },
+      {
+        "option_id": "C",
+        "text": "31 m"
+      },
+      {
+        "option_id": "D",
+        "text": "31 2 m"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Sum of first n natural numbers is n(n+1)/2.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_10",
+        "pdf_page_index": 87,
+        "printed_page_label": "82"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_011",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "In an A.P., the first term is 1 and the common difference is 4. How many terms of the A.P. must be taken for their sum to be equal to 120?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "6"
+      },
+      {
+        "option_id": "B",
+        "text": "7"
+      },
+      {
+        "option_id": "C",
+        "text": "8"
+      },
+      {
+        "option_id": "D",
+        "text": "9"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Sum of squares of first n natural numbers: n(n+1)(2n+1)/6.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_11",
+        "pdf_page_index": 87,
+        "printed_page_label": "82"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_012",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If A = 265 and B = + + + + 2 2 2 2 64 63 62 0  which of the following is true?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "B is 264 more than A"
+      },
+      {
+        "option_id": "B",
+        "text": "A and B are equal"
+      },
+      {
+        "option_id": "C",
+        "text": "B is larger than A by 1"
+      },
+      {
+        "option_id": "D",
+        "text": "A is larger than B by 1 10th_Maths_Chapter 2_English.indd 82 10th_Maths_Chapter 2_English.indd 82 12/14/2024 4:43:07 PM 12/14/2024 4:43:07 PM"
+      }
+    ],
+    "correct_option_id": "D",
+    "explanation": "Sum of cubes of first n natural numbers: [n(n+1)/2]^2.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_12",
+        "pdf_page_index": 87,
+        "printed_page_label": "82"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_013",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The next term of the sequence 3 16 1 8 1 12 1 18 , , , ,is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "1 24"
+      },
+      {
+        "option_id": "B",
+        "text": "1 27"
+      },
+      {
+        "option_id": "C",
+        "text": "2 3"
+      },
+      {
+        "option_id": "D",
+        "text": "1 81"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Arithmetic mean of sequence elements.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_13",
+        "pdf_page_index": 88,
+        "printed_page_label": "83"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_014",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "If the sequence t t t 1 2 3 , , ,... are in A.P. then the sequence t t t 6 12 18 , , ,... is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "a Geometric Progression"
+      },
+      {
+        "option_id": "B",
+        "text": "an Arithmetic Progression"
+      },
+      {
+        "option_id": "C",
+        "text": "neither an Arithmetic Progression nor a Geometric Progression"
+      },
+      {
+        "option_id": "D",
+        "text": "a constant sequence"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Fibonacci sequence recursive relation F_n = F_{n-1} + F_{n-2}.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_14",
+        "pdf_page_index": 88,
+        "printed_page_label": "83"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_mat_ch02_015",
+    "subject_id": "mathematics",
+    "source_id": "src_tn_mat_10_2025",
+    "chapter_id": "mat_ch02",
+    "chapter_title": "Chapter 2: Numbers and Sequences",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The value of ( ) ( ) 1 2 3 15 1 2 3 15 3 3 3 3 + + + + − + + + +   is",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "14400"
+      },
+      {
+        "option_id": "B",
+        "text": "14200"
+      },
+      {
+        "option_id": "C",
+        "text": "14280"
+      },
+      {
+        "option_id": "D",
+        "text": "14520"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Modular arithmetic congruence properties.",
+    "source_refs": [
+      {
+        "passage_id": "pas_mat_ch02_15",
+        "pdf_page_index": 88,
+        "printed_page_label": "83"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_s_01_001",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_his_01",
+    "chapter_title": "History Unit 1: Outbreak of World War I",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What were the three major empires shattered by the end of First World War?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Germany, Austria Hungary, and the Ottomans"
+      },
+      {
+        "option_id": "B",
+        "text": "Germany, Austria-Hungary, and Russia"
+      },
+      {
+        "option_id": "C",
+        "text": "Spain, Portugal and Italy"
+      },
+      {
+        "option_id": "D",
+        "text": "Germany, Austria-Hungary, Italy"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "By the end of the First World War, the German, Austro-Hungarian, Russian, and Ottoman empires collapsed.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_s_01_01",
+        "pdf_page_index": 19,
+        "printed_page_label": "14"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_s_01_002",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_his_01",
+    "chapter_title": "History Unit 1: Outbreak of World War I",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Which country emerged as the strongest in East Asia towards the close of nineteenth century?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "China"
+      },
+      {
+        "option_id": "B",
+        "text": "Japan"
+      },
+      {
+        "option_id": "C",
+        "text": "Korea"
+      },
+      {
+        "option_id": "D",
+        "text": "Mongolia"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Towards the close of the 19th century, Japan emerged as the strongest power in East Asia after the Sino-Japanese War.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_s_01_02",
+        "pdf_page_index": 19,
+        "printed_page_label": "14"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_s_01_003",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_his_01",
+    "chapter_title": "History Unit 1: Outbreak of World War I",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Who said “imperialism is the highest stage of capitalism”?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Lenin"
+      },
+      {
+        "option_id": "B",
+        "text": "Marx"
+      },
+      {
+        "option_id": "C",
+        "text": "Sun Yat-sen"
+      },
+      {
+        "option_id": "D",
+        "text": "Mao Tsetung"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Vladimir Lenin stated that 'Imperialism is the highest stage of capitalism' in his famous 1916 work.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_s_01_03",
+        "pdf_page_index": 19,
+        "printed_page_label": "14"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_s_01_004",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_his_01",
+    "chapter_title": "History Unit 1: Outbreak of World War I",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What is the Battle of Marne remembered for?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "air warfare"
+      },
+      {
+        "option_id": "B",
+        "text": "trench warfare"
+      },
+      {
+        "option_id": "C",
+        "text": "submarine warfare"
+      },
+      {
+        "option_id": "D",
+        "text": "ship warfare"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "The Battle of the Marne is remembered as a classic example of trench warfare early in World War I.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_s_01_04",
+        "pdf_page_index": 19,
+        "printed_page_label": "14"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_s_01_005",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_his_01",
+    "chapter_title": "History Unit 1: Outbreak of World War I",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "To which country did the first Secretary General of League of Nations belong?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Britain"
+      },
+      {
+        "option_id": "B",
+        "text": "France"
+      },
+      {
+        "option_id": "C",
+        "text": "Dutch"
+      },
+      {
+        "option_id": "D",
+        "text": "USA"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "The first Secretary-General of the League of Nations was Sir Eric Drummond, who belonged to Britain.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_s_01_05",
+        "pdf_page_index": 19,
+        "printed_page_label": "14"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_s_01_006",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_his_01",
+    "chapter_title": "History Unit 1: Outbreak of World War I",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Which country was expelled from the League of Nations for attacking Finland?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Germany"
+      },
+      {
+        "option_id": "B",
+        "text": "Russia"
+      },
+      {
+        "option_id": "C",
+        "text": "Italy"
+      },
+      {
+        "option_id": "D",
+        "text": "France II"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "In December 1939, Russia (Soviet Union) was expelled from the League of Nations following its invasion of Finland.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_s_01_06",
+        "pdf_page_index": 19,
+        "printed_page_label": "14"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_o_01_001",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_geo_01",
+    "chapter_title": "Geography Unit 1: India - Location, Relief and Drainage",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The north-south extent of India is:",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "2,500 km"
+      },
+      {
+        "option_id": "B",
+        "text": "2,933 km"
+      },
+      {
+        "option_id": "C",
+        "text": "3,214 km"
+      },
+      {
+        "option_id": "D",
+        "text": "2,814 km"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "India extends from 8°4'N to 37°6'N latitudes; the north-south extent is 3,214 km from Kashmir to Kanyakumari.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_o_01_01",
+        "pdf_page_index": 147,
+        "printed_page_label": "142"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_o_01_002",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_geo_01",
+    "chapter_title": "Geography Unit 1: India - Location, Relief and Drainage",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Which river is known as the 'Sorrow of Bihar'?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Narmada"
+      },
+      {
+        "option_id": "B",
+        "text": "Godavari"
+      },
+      {
+        "option_id": "C",
+        "text": "Kosi"
+      },
+      {
+        "option_id": "D",
+        "text": "Damodar"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "River Kosi is notorious for causing devastating annual floods in Bihar and is known as the 'Sorrow of Bihar'.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_o_01_02",
+        "pdf_page_index": 147,
+        "printed_page_label": "142"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_o_01_003",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_geo_01",
+    "chapter_title": "Geography Unit 1: India - Location, Relief and Drainage",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "A landmass bounded by sea on three sides is referred to as a:",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Coast"
+      },
+      {
+        "option_id": "B",
+        "text": "Island"
+      },
+      {
+        "option_id": "C",
+        "text": "Peninsula"
+      },
+      {
+        "option_id": "D",
+        "text": "Strait"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "A peninsula is a geographical landform surrounded by water bodies on three sides and connected to land on one side.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_o_01_03",
+        "pdf_page_index": 147,
+        "printed_page_label": "142"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_o_01_004",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_geo_01",
+    "chapter_title": "Geography Unit 1: India - Location, Relief and Drainage",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The Palk Strait and Gulf of Mannar separates India from:",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Goa"
+      },
+      {
+        "option_id": "B",
+        "text": "West Bengal"
+      },
+      {
+        "option_id": "C",
+        "text": "Sri Lanka"
+      },
+      {
+        "option_id": "D",
+        "text": "Maldives"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "India is separated from Sri Lanka by a narrow stretch of sea called the Palk Strait and Gulf of Mannar.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_o_01_04",
+        "pdf_page_index": 147,
+        "printed_page_label": "142"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_o_01_005",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_geo_01",
+    "chapter_title": "Geography Unit 1: India - Location, Relief and Drainage",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The highest peak in South India is:",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Ooty"
+      },
+      {
+        "option_id": "B",
+        "text": "Kodaikanal"
+      },
+      {
+        "option_id": "C",
+        "text": "Anaimudi"
+      },
+      {
+        "option_id": "D",
+        "text": "Jindhagada"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Anaimudi (2,695 m) in the Anaimalai Hills is the highest peak in South India and the Western Ghats.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_o_01_05",
+        "pdf_page_index": 147,
+        "printed_page_label": "142"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_o_01_006",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_geo_01",
+    "chapter_title": "Geography Unit 1: India - Location, Relief and Drainage",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Which plains are formed by older alluviums?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Bhabar"
+      },
+      {
+        "option_id": "B",
+        "text": "Tarai"
+      },
+      {
+        "option_id": "C",
+        "text": "Bhangar"
+      },
+      {
+        "option_id": "D",
+        "text": "Khadar"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "The Bhangar plains represent the upland alluvial tracts formed by older alluviums deposited above flood limits.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_o_01_06",
+        "pdf_page_index": 147,
+        "printed_page_label": "142"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_soc_o_01_007",
+    "subject_id": "social_science",
+    "source_id": "src_tn_soc_10_2025",
+    "chapter_id": "soc_geo_01",
+    "chapter_title": "Geography Unit 1: India - Location, Relief and Drainage",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Pulicat Lake is located between the states of:",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "West Bengal and Odisha"
+      },
+      {
+        "option_id": "B",
+        "text": "Karnataka and Kerala"
+      },
+      {
+        "option_id": "C",
+        "text": "Odisha and Andhra Pradesh"
+      },
+      {
+        "option_id": "D",
+        "text": "Tamil Nadu and Andhra Pradesh"
+      }
+    ],
+    "correct_option_id": "D",
+    "explanation": "Pulicat Lake is the second largest brackish-water lagoon in India, situated on the border of Tamil Nadu and Andhra Pradesh.",
+    "source_refs": [
+      {
+        "passage_id": "pas_soc_o_01_07",
+        "pdf_page_index": 147,
+        "printed_page_label": "142"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u01_001",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u01",
+    "chapter_title": "Unit 1: His First Flight",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The young seagull was alone on his ledge because his two brothers and sister had already ______.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "flown away the day before"
+      },
+      {
+        "option_id": "B",
+        "text": "caught their first fish"
+      },
+      {
+        "option_id": "C",
+        "text": "slept in the little hole"
+      },
+      {
+        "option_id": "D",
+        "text": "hidden beneath the rock"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook opening sentence: 'His two brothers and his sister had already flown away the day before.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u01_01",
+        "pdf_page_index": 5,
+        "printed_page_label": "2"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u01_002",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u01",
+    "chapter_title": "Unit 1: His First Flight",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What did the young seagull's mother do to compel him to fly?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Halted mid-air holding a piece of fish just out of reach"
+      },
+      {
+        "option_id": "B",
+        "text": "Pushed him off the edge of the cliff"
+      },
+      {
+        "option_id": "C",
+        "text": "Left him alone to starve completely"
+      },
+      {
+        "option_id": "D",
+        "text": "Called the father seagull to carry him"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "The mother flew across with fish and halted almost within reach of his beak, maddening him with hunger.",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u01_02",
+        "pdf_page_index": 7,
+        "printed_page_label": "4"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u01_003",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u01",
+    "chapter_title": "Unit 1: His First Flight",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What is the meaning of the word 'ledge' in the story?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "A narrow shelf projecting from a vertical rock surface"
+      },
+      {
+        "option_id": "B",
+        "text": "A deep cave inside the mountain"
+      },
+      {
+        "option_id": "C",
+        "text": "A sandy beach beside the ocean"
+      },
+      {
+        "option_id": "D",
+        "text": "A floating piece of green sea weed"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Glossary (page 5): 'ledge (n) - a narrow horizontal shelf that juts out from a vertical surface.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u01_03",
+        "pdf_page_index": 8,
+        "printed_page_label": "5"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u01_004",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u01",
+    "chapter_title": "Unit 1: His First Flight",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Who is the author of the story 'His First Flight'?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Liam O'Flaherty"
+      },
+      {
+        "option_id": "B",
+        "text": "James Thurber"
+      },
+      {
+        "option_id": "C",
+        "text": "Robert Frost"
+      },
+      {
+        "option_id": "D",
+        "text": "William Shakespeare"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 1 About the Author: Liam O'Flaherty (1896–1984) was an Irish novelist and short story writer.",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u01_04",
+        "pdf_page_index": 8,
+        "printed_page_label": "5"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u02_001",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u02",
+    "chapter_title": "Unit 2: The Night the Ghost Got In",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What first aroused the narrator's mother during the night of the incident?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "The slamming of the doors downstairs"
+      },
+      {
+        "option_id": "B",
+        "text": "The footsteps in the attic"
+      },
+      {
+        "option_id": "C",
+        "text": "The police sirens outside"
+      },
+      {
+        "option_id": "D",
+        "text": "The sound of breaking glass"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 2 (page 31): 'The slamming of the doors had aroused mother: she peered out of her room.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u02_01",
+        "pdf_page_index": 34,
+        "printed_page_label": "31"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u02_002",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u02",
+    "chapter_title": "Unit 2: The Night the Ghost Got In",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Who wrote the humorous story 'The Night the Ghost Got In'?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "James Grover Thurber"
+      },
+      {
+        "option_id": "B",
+        "text": "Liam O'Flaherty"
+      },
+      {
+        "option_id": "C",
+        "text": "Robert Frost"
+      },
+      {
+        "option_id": "D",
+        "text": "Herman Melville"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 2 'About the Author': James Grover Thurber (1894–1961) was an American cartoonist and humourist.",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u02_02",
+        "pdf_page_index": 37,
+        "printed_page_label": "34"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u02_003",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u02",
+    "chapter_title": "Unit 2: The Night the Ghost Got In",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What is the meaning of the word 'hullabaloo' as used in the lesson?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "A lot of loud noise made by excited people"
+      },
+      {
+        "option_id": "B",
+        "text": "A quiet whispering sound in the dark"
+      },
+      {
+        "option_id": "C",
+        "text": "A musical string instrument played by fingers"
+      },
+      {
+        "option_id": "D",
+        "text": "A secret hideout beneath the roof"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Glossary (page 34): 'hullabaloo (v/n) - lot of loud noise made by people who are excited.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u02_03",
+        "pdf_page_index": 37,
+        "printed_page_label": "34"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_tam_ch01_001",
+    "subject_id": "tamil",
+    "source_id": "src_tn_tam_10_2025",
+    "chapter_id": "tam_ch01",
+    "chapter_title": "இயல் 1: அன்னை மொழியே",
+    "language": "ta",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "'மெத்த வணிகலன்' என்னும் தொடரில் தமிழழகனார் குறிப்பிடுவது எது?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "வணிகக் கப்பல்களும் ஐம்பெரும் காப்பியங்களும்"
+      },
+      {
+        "option_id": "B",
+        "text": "பெரும் வணிகமும் அணிகலன்களும்"
+      },
+      {
+        "option_id": "C",
+        "text": "ஐம்பெரும் காப்பியங்களும் அணிகலன்களும்"
+      },
+      {
+        "option_id": "D",
+        "text": "வணிகக் கப்பல்களும் அணிகலன்களும்"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "தமிழழகனார் மெத்த வணிகலன் என்ற தொடரால் வணிகக் கப்பல்களையும் ஐம்பெரும் காப்பியங்களையும் குறிப்பிடுகிறார்.",
+    "source_refs": [
+      {
+        "passage_id": "pas_tam_ch01_01",
+        "pdf_page_index": 46,
+        "printed_page_label": "37"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_tam_ch01_002",
+    "subject_id": "tamil",
+    "source_id": "src_tn_tam_10_2025",
+    "chapter_id": "tam_ch01",
+    "chapter_title": "இயல் 1: அன்னை மொழியே",
+    "language": "ta",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "'கேட்டவர் மகிழப் பாடிய பாடல் இது' — தொடரில் இடம்பெற்றுள்ள தொழிற்பெயரும் வினையாலணையும் பெயரும் முறையே?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "பாடல், கேட்டவர்"
+      },
+      {
+        "option_id": "B",
+        "text": "கேட்டவர், பாடல்"
+      },
+      {
+        "option_id": "C",
+        "text": "பாடிய, கேட்டவர்"
+      },
+      {
+        "option_id": "D",
+        "text": "கேட்டவர், பாடிய"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "'பாடல்' என்பது தொழிற்பெயர்; 'கேட்டவர்' என்பது வினையாலணையும் பெயர்.",
+    "source_refs": [
+      {
+        "passage_id": "pas_tam_ch01_02",
+        "pdf_page_index": 46,
+        "printed_page_label": "37"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_tam_ch01_003",
+    "subject_id": "tamil",
+    "source_id": "src_tn_tam_10_2025",
+    "chapter_id": "tam_ch01",
+    "chapter_title": "இயல் 1: அன்னை மொழியே",
+    "language": "ta",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "வேர்க்கடலை, மிளகாய்விதை, மாங்கொட்டை ஆகியவற்றின் வித்து வகை எது?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "குலை வகை"
+      },
+      {
+        "option_id": "B",
+        "text": "மணி வகை"
+      },
+      {
+        "option_id": "C",
+        "text": "கொழுந்து வகை"
+      },
+      {
+        "option_id": "D",
+        "text": "இலை வகை"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "வேர்க்கடலை, மிளகாய்விதை, மாங்கொட்டை ஆகியவை தாவரத்தின் மணி வகையைச் சார்ந்தவை.",
+    "source_refs": [
+      {
+        "passage_id": "pas_tam_ch01_03",
+        "pdf_page_index": 46,
+        "printed_page_label": "37"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_tam_ch01_004",
+    "subject_id": "tamil",
+    "source_id": "src_tn_tam_10_2025",
+    "chapter_id": "tam_ch01",
+    "chapter_title": "இயல் 1: அன்னை மொழியே",
+    "language": "ta",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "'நன்மொழி' என்னும் சொல்லின் இலக்கணக் குறிப்பு யாது?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "பண்புத்தொகை"
+      },
+      {
+        "option_id": "B",
+        "text": "வினைத்தொகை"
+      },
+      {
+        "option_id": "C",
+        "text": "உவமைத்தொகை"
+      },
+      {
+        "option_id": "D",
+        "text": "உம்மைத்தொகை"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "நன்மை + மொழி எனப் பிரிந்து பண்பு உருபைப் பெற்று வருவதால் இது பண்புத்தொகை ஆகும்.",
+    "source_refs": [
+      {
+        "passage_id": "pas_tam_ch01_04",
+        "pdf_page_index": 46,
+        "printed_page_label": "37"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_tam_ch02_001",
+    "subject_id": "tamil",
+    "source_id": "src_tn_tam_10_2025",
+    "chapter_id": "tam_ch02",
+    "chapter_title": "இயல் 2: காற்றே வா",
+    "language": "ta",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "பின்வருவனவற்றுள் முறையான தொடர் எது?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "தமிழர் பண்பாட்டில் தனித்த வாழை இலைக்கு இடமுண்டு."
+      },
+      {
+        "option_id": "B",
+        "text": "தமிழர் வாழை இலைக்குப் பண்பாட்டில் தனித்த இடமுண்டு."
+      },
+      {
+        "option_id": "C",
+        "text": "தமிழர் பண்பாட்டில் வாழை இலைக்குத் தனித்த இடமுண்டு."
+      },
+      {
+        "option_id": "D",
+        "text": "தமிழர் வாழை பண்பாட்டில் தனித்த இலைக்கு இடமுண்டு."
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "முறை யான தொடர் அமைப்பு: 'தமிழர் பண்பாட்டில் வாழை இலைக்குத் தனித்த இடமுண்டு.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_tam_ch02_01",
+        "pdf_page_index": 70,
+        "printed_page_label": "61"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_tam_ch02_002",
+    "subject_id": "tamil",
+    "source_id": "src_tn_tam_10_2025",
+    "chapter_id": "tam_ch02",
+    "chapter_title": "இயல் 2: காற்றே வா",
+    "language": "ta",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "காலில் அணியும் அணிகலனைக் குறிப்பது எது?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "சுட்டி"
+      },
+      {
+        "option_id": "B",
+        "text": "கிண்கிணி"
+      },
+      {
+        "option_id": "C",
+        "text": "குழை"
+      },
+      {
+        "option_id": "D",
+        "text": "சூழி"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "'கிண்கிணி' என்பது காலில் அணியும் அணிகலனாகும். சுட்டி நெற்றியிலும், குழை காதிலும் அணியப்படுவது.",
+    "source_refs": [
+      {
+        "passage_id": "pas_tam_ch02_02",
+        "pdf_page_index": 70,
+        "printed_page_label": "61"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_tam_ch02_003",
+    "subject_id": "tamil",
+    "source_id": "src_tn_tam_10_2025",
+    "chapter_id": "tam_ch02",
+    "chapter_title": "இயல் 2: காற்றே வா",
+    "language": "ta",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "காசிக்காண்டம் என்பது எவ்வகை நூல்?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "காசி நகரத்தின் வரலாற்றைப் பாடும் நூல்"
+      },
+      {
+        "option_id": "B",
+        "text": "காசி நகரத்தைக் குறிக்கும் மறுபெயர்"
+      },
+      {
+        "option_id": "C",
+        "text": "காசி நகரத்தின் பெருமையைப் பாடும் நூல்"
+      },
+      {
+        "option_id": "D",
+        "text": "காசி மன்னர்களின் வெற்றியைப் பாடும் நூல்"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "காசிக்காண்டம் என்பது காசி நகரத்தின் பெருமைகளைக் கூறுகிற நூலாகும்; அதிவீரராம பாண்டியரால் இயற்றப்பட்டது.",
+    "source_refs": [
+      {
+        "passage_id": "pas_tam_ch02_03",
+        "pdf_page_index": 70,
+        "printed_page_label": "61"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u01_005",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u01",
+    "chapter_title": "Unit 1: His First Flight",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "______ was the chief of all spirits on the island in 'The Tempest'.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Sycorax"
+      },
+      {
+        "option_id": "B",
+        "text": "Caliban"
+      },
+      {
+        "option_id": "C",
+        "text": "Ariel"
+      },
+      {
+        "option_id": "D",
+        "text": "Prospero"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Supplementary 'The Tempest' (page 26): 'Ariel was the chief of all the gentle spirits whom Prospero had released.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u01_05",
+        "pdf_page_index": 29,
+        "printed_page_label": "26"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u01_006",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u01",
+    "chapter_title": "Unit 1: His First Flight",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "______ raised a dreadful storm in 'The Tempest' using his magical powers.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Caliban"
+      },
+      {
+        "option_id": "B",
+        "text": "Prospero"
+      },
+      {
+        "option_id": "C",
+        "text": "Miranda"
+      },
+      {
+        "option_id": "D",
+        "text": "Sycorax"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Supplementary 'The Tempest' (page 26): 'Prospero by his art had raised this violent tempest in the sea.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u01_06",
+        "pdf_page_index": 29,
+        "printed_page_label": "26"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u01_007",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u01",
+    "chapter_title": "Unit 1: His First Flight",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Miranda was brought to the island ______ years ago.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "fourteen"
+      },
+      {
+        "option_id": "B",
+        "text": "ten"
+      },
+      {
+        "option_id": "C",
+        "text": "twelve"
+      },
+      {
+        "option_id": "D",
+        "text": "five"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Supplementary 'The Tempest' (page 26): 'Twelve years ago, Miranda, I was Duke of Milan, and you were a princess.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u01_07",
+        "pdf_page_index": 29,
+        "printed_page_label": "26"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u01_008",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u01",
+    "chapter_title": "Unit 1: His First Flight",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Prospero ordered Ariel to bring ______ to his place.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Gonzalo"
+      },
+      {
+        "option_id": "B",
+        "text": "Ferdinand"
+      },
+      {
+        "option_id": "C",
+        "text": "King of Naples"
+      },
+      {
+        "option_id": "D",
+        "text": "Antonio"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Supplementary 'The Tempest' (page 26): 'Prospero commanded Ariel to go and bring the young Prince Ferdinand to his cave.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u01_08",
+        "pdf_page_index": 29,
+        "printed_page_label": "26"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u01_009",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u01",
+    "chapter_title": "Unit 1: His First Flight",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "______ had secretly provided Prospero with books and provisions when he was exiled.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Sycorax"
+      },
+      {
+        "option_id": "B",
+        "text": "Prospero"
+      },
+      {
+        "option_id": "C",
+        "text": "Ferdinand"
+      },
+      {
+        "option_id": "D",
+        "text": "Gonzalo"
+      }
+    ],
+    "correct_option_id": "D",
+    "explanation": "Textbook Supplementary 'The Tempest' (page 26): 'A kind old lord named Gonzalo had secretly provided them with water, food, and books.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u01_09",
+        "pdf_page_index": 29,
+        "printed_page_label": "26"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u02_004",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u02",
+    "chapter_title": "Unit 2: The Night the Ghost Got In",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Everything falls to the ground ______ earth's gravitational pull.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "in addition to"
+      },
+      {
+        "option_id": "B",
+        "text": "because of"
+      },
+      {
+        "option_id": "C",
+        "text": "cause of"
+      },
+      {
+        "option_id": "D",
+        "text": "in spite of"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 2 Prepositional Phrases (page 43): 'Everything falls to the ground because of earth's gravitational pull.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u02_04",
+        "pdf_page_index": 46,
+        "printed_page_label": "43"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u02_005",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u02",
+    "chapter_title": "Unit 2: The Night the Ghost Got In",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The trial was conducted ______ the procedure of law.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "in accordance with"
+      },
+      {
+        "option_id": "B",
+        "text": "due to"
+      },
+      {
+        "option_id": "C",
+        "text": "despite of"
+      },
+      {
+        "option_id": "D",
+        "text": "in front of"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 2 Prepositional Phrases (page 43): 'The trial was conducted in accordance with the procedure of law.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u02_05",
+        "pdf_page_index": 46,
+        "printed_page_label": "43"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u02_006",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u02",
+    "chapter_title": "Unit 2: The Night the Ghost Got In",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "There is a temple right ______ my house.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "in back of"
+      },
+      {
+        "option_id": "B",
+        "text": "apart from"
+      },
+      {
+        "option_id": "C",
+        "text": "in front of"
+      },
+      {
+        "option_id": "D",
+        "text": "because of"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Unit 2 Prepositional Phrases (page 44): 'There is a temple right in front of my house.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u02_06",
+        "pdf_page_index": 47,
+        "printed_page_label": "44"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u02_007",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u02",
+    "chapter_title": "Unit 2: The Night the Ghost Got In",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "As a ______ of his hard work, he achieved the target.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "instead of"
+      },
+      {
+        "option_id": "B",
+        "text": "result of"
+      },
+      {
+        "option_id": "C",
+        "text": "apart from"
+      },
+      {
+        "option_id": "D",
+        "text": "on top of"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 2 Prepositional Phrases (page 44): 'As a result of his hard work, he achieved the target.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u02_07",
+        "pdf_page_index": 47,
+        "printed_page_label": "44"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u02_008",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u02",
+    "chapter_title": "Unit 2: The Night the Ghost Got In",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "______ several warnings, he continued to swim in the rough sea.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Due to"
+      },
+      {
+        "option_id": "B",
+        "text": "In spite of"
+      },
+      {
+        "option_id": "C",
+        "text": "Because of"
+      },
+      {
+        "option_id": "D",
+        "text": "In addition to"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 2 Prepositional Phrases (page 44): 'In spite of several warnings, he continued to swim.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u02_08",
+        "pdf_page_index": 47,
+        "printed_page_label": "44"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u03_001",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u03",
+    "chapter_title": "Unit 3: Empowered Women Navigating the World",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Mulan goes to the battle instead of her father because ______.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "she wants to be a soldier"
+      },
+      {
+        "option_id": "B",
+        "text": "she was asked to join the army"
+      },
+      {
+        "option_id": "C",
+        "text": "her father is old"
+      },
+      {
+        "option_id": "D",
+        "text": "her brother is sick"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Unit 3 Supplementary 'The Story of Mulan' (page 90): 'Her father was old and frail... Mulan decided to go in her father's place.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u03_01",
+        "pdf_page_index": 93,
+        "printed_page_label": "90"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u03_002",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u03",
+    "chapter_title": "Unit 3: Empowered Women Navigating the World",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What did Mulan do before leaving the house to join the army?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Took leave from her mother"
+      },
+      {
+        "option_id": "B",
+        "text": "Cut off her hair"
+      },
+      {
+        "option_id": "C",
+        "text": "Prayed at the temple"
+      },
+      {
+        "option_id": "D",
+        "text": "Made a dress for war"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 3 Supplementary 'The Story of Mulan' (page 90): 'She cut off her hair with a sword and put on her father's robe.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u03_02",
+        "pdf_page_index": 93,
+        "printed_page_label": "90"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u03_003",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u03",
+    "chapter_title": "Unit 3: Empowered Women Navigating the World",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What is the central theme of 'The Story of Mulan'?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Winning at all costs"
+      },
+      {
+        "option_id": "B",
+        "text": "Childhood friendship"
+      },
+      {
+        "option_id": "C",
+        "text": "Women empowerment"
+      },
+      {
+        "option_id": "D",
+        "text": "Motherhood"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Unit 3 Supplementary 'The Story of Mulan' (page 90): The narrative is celebrated worldwide as a classic of women empowerment and courage.",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u03_03",
+        "pdf_page_index": 93,
+        "printed_page_label": "90"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u03_004",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u03",
+    "chapter_title": "Unit 3: Empowered Women Navigating the World",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The Emperor asked Mulan to stay with him in the palace as his ______.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "royal advisor"
+      },
+      {
+        "option_id": "B",
+        "text": "wife"
+      },
+      {
+        "option_id": "C",
+        "text": "army general"
+      },
+      {
+        "option_id": "D",
+        "text": "personal guard"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 3 Supplementary 'The Story of Mulan' (page 91): 'The Emperor asked Mulan to stay with him in the palace as his royal advisor.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u03_04",
+        "pdf_page_index": 93,
+        "printed_page_label": "91"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u03_005",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u03",
+    "chapter_title": "Unit 3: Empowered Women Navigating the World",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The Emperor gave Mulan ______ upon her victorious return.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "six horses and six swords"
+      },
+      {
+        "option_id": "B",
+        "text": "a death sentence"
+      },
+      {
+        "option_id": "C",
+        "text": "bags of gold coins"
+      },
+      {
+        "option_id": "D",
+        "text": "six camels and silk robes"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 3 Supplementary 'The Story of Mulan' (page 91): 'The Emperor gave Mulan six fine horses and six fine swords.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u03_05",
+        "pdf_page_index": 93,
+        "printed_page_label": "91"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u03_006",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u03",
+    "chapter_title": "Unit 3: Empowered Women Navigating the World",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "How did the people of the village react to Mulan after her return from the battle?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Cheered her"
+      },
+      {
+        "option_id": "B",
+        "text": "Mocked her"
+      },
+      {
+        "option_id": "C",
+        "text": "Punished her"
+      },
+      {
+        "option_id": "D",
+        "text": "Scolded her"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 3 Supplementary 'The Story of Mulan' (page 91): 'Everyone cheered her return and celebrated her heroism.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u03_06",
+        "pdf_page_index": 93,
+        "printed_page_label": "91"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u03_007",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u03",
+    "chapter_title": "Unit 3: Empowered Women Navigating the World",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What is the name of the Indian Navy sailing vessel circumnavigated by the all-women crew?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "INSV Mhadei"
+      },
+      {
+        "option_id": "B",
+        "text": "INSV Tarini"
+      },
+      {
+        "option_id": "C",
+        "text": "INS Vikrant"
+      },
+      {
+        "option_id": "D",
+        "text": "INS Chakra"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 3 (page 61): 'INSV Tarini is the second sailboat of the Indian Navy built indigenously in India.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u03_07",
+        "pdf_page_index": 64,
+        "printed_page_label": "61"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u03_008",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u03",
+    "chapter_title": "Unit 3: Empowered Women Navigating the World",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Who was the skipper and leader of the all-women navy crew on INSV Tarini?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Lt. Cdr. Vartika Joshi"
+      },
+      {
+        "option_id": "B",
+        "text": "Lt. Cdr. Pratibha Jamwal"
+      },
+      {
+        "option_id": "C",
+        "text": "Lt. Aishwarya Boddapati"
+      },
+      {
+        "option_id": "D",
+        "text": "Lt. Shougrakpam Vijaya Devi"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 3 (page 61): 'The all-women navy crew was led by Lt. Commander Vartika Joshi.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u03_08",
+        "pdf_page_index": 64,
+        "printed_page_label": "61"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u03_009",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u03",
+    "chapter_title": "Unit 3: Empowered Women Navigating the World",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The all-women navy crew's circumnavigation expedition was titled ______.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Sagar Parikrama"
+      },
+      {
+        "option_id": "B",
+        "text": "Samudra Setu"
+      },
+      {
+        "option_id": "C",
+        "text": "Navika Sagar Parikrama"
+      },
+      {
+        "option_id": "D",
+        "text": "Operation Rahat"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Unit 3 (page 61): 'Navika Sagar Parikrama was a voyage undertaken by six women naval officers to circumnavigate the globe.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u03_09",
+        "pdf_page_index": 64,
+        "printed_page_label": "61"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u03_010",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u03",
+    "chapter_title": "Unit 3: Empowered Women Navigating the World",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What is the meaning of the word 'circumnavigate' as defined in the lesson?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "To travel completely around something by water"
+      },
+      {
+        "option_id": "B",
+        "text": "To dive deep into the ocean"
+      },
+      {
+        "option_id": "C",
+        "text": "To build a modern sailboat"
+      },
+      {
+        "option_id": "D",
+        "text": "To fly around the world in an airplane"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Glossary (page 65): 'circumnavigate (v) - to travel all the way around something, especially the world by sea.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u03_10",
+        "pdf_page_index": 68,
+        "printed_page_label": "65"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u04_001",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u04",
+    "chapter_title": "Unit 4: The Attic",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Shining was governed by a ______ leader.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "strict"
+      },
+      {
+        "option_id": "B",
+        "text": "kind"
+      },
+      {
+        "option_id": "C",
+        "text": "cruel"
+      },
+      {
+        "option_id": "D",
+        "text": "diplomatic"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Unit 4 Supplementary 'The Aged Mother' (page 123): 'Shining was governed by a despotic leader who was a cruel ruler.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u04_01",
+        "pdf_page_index": 126,
+        "printed_page_label": "123"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u04_002",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u04",
+    "chapter_title": "Unit 4: The Attic",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The ______ was the principal food for the poor in the province of Shining.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "wheat"
+      },
+      {
+        "option_id": "B",
+        "text": "brown rice"
+      },
+      {
+        "option_id": "C",
+        "text": "unwhitened rice"
+      },
+      {
+        "option_id": "D",
+        "text": "millet"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Unit 4 Supplementary 'The Aged Mother' (page 123): 'Unwhitened rice was the principal food for the poor.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u04_02",
+        "pdf_page_index": 126,
+        "printed_page_label": "123"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u04_003",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u04",
+    "chapter_title": "Unit 4: The Attic",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The road was crossed and re-crossed by many paths made by the ______.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "hunters and woodcutters"
+      },
+      {
+        "option_id": "B",
+        "text": "robbers and thieves"
+      },
+      {
+        "option_id": "C",
+        "text": "vendors and tradesmen"
+      },
+      {
+        "option_id": "D",
+        "text": "wildlife photographers"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 4 Supplementary (page 123): 'The road was crossed and re-crossed by paths made by hunters and woodcutters.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u04_03",
+        "pdf_page_index": 126,
+        "printed_page_label": "123"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u04_004",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u04",
+    "chapter_title": "Unit 4: The Attic",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Gathering ______, the son made a soft cushion and tenderly lifted his old mother onto it.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "dry leaves"
+      },
+      {
+        "option_id": "B",
+        "text": "fallen pine needles"
+      },
+      {
+        "option_id": "C",
+        "text": "broken twigs"
+      },
+      {
+        "option_id": "D",
+        "text": "wild flowers"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 4 Supplementary (page 123): 'Gathering fallen pine needles, he made a soft, clean cushion.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u04_04",
+        "pdf_page_index": 126,
+        "printed_page_label": "123"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u04_005",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u04",
+    "chapter_title": "Unit 4: The Attic",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The governor demanded that his subjects should present him with a ______.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "basket of fruits"
+      },
+      {
+        "option_id": "B",
+        "text": "rope of ashes"
+      },
+      {
+        "option_id": "C",
+        "text": "flesh of animals"
+      },
+      {
+        "option_id": "D",
+        "text": "bag of silverware"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 4 Supplementary (page 123): 'The governor sent forth a proclamation demanding his subjects to present him with a rope of ashes.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u04_05",
+        "pdf_page_index": 126,
+        "printed_page_label": "123"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u04_006",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u04",
+    "chapter_title": "Unit 4: The Attic",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Call me ______ you need money.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "so that"
+      },
+      {
+        "option_id": "B",
+        "text": "in order that"
+      },
+      {
+        "option_id": "C",
+        "text": "in case"
+      },
+      {
+        "option_id": "D",
+        "text": "although"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Unit 4 Connectors (page 104): 'Call me in case you need money.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u04_06",
+        "pdf_page_index": 107,
+        "printed_page_label": "104"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u04_007",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u04",
+    "chapter_title": "Unit 4: The Attic",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "______ he is ninety years old, he is in the pink of health.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "When"
+      },
+      {
+        "option_id": "B",
+        "text": "Since"
+      },
+      {
+        "option_id": "C",
+        "text": "Though"
+      },
+      {
+        "option_id": "D",
+        "text": "As"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Unit 4 Connectors (page 104): 'Though he is ninety years old, he is in the pink of health.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u04_07",
+        "pdf_page_index": 107,
+        "printed_page_label": "104"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u04_008",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u04",
+    "chapter_title": "Unit 4: The Attic",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "It is raining. Take an umbrella ______ you will get drenched.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "or else"
+      },
+      {
+        "option_id": "B",
+        "text": "and"
+      },
+      {
+        "option_id": "C",
+        "text": "but"
+      },
+      {
+        "option_id": "D",
+        "text": "while"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 4 Connectors (page 104): 'Take an umbrella or else you will get drenched.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u04_08",
+        "pdf_page_index": 107,
+        "printed_page_label": "104"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u04_009",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u04",
+    "chapter_title": "Unit 4: The Attic",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "______ he was honest, he was punished.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "But"
+      },
+      {
+        "option_id": "B",
+        "text": "Though"
+      },
+      {
+        "option_id": "C",
+        "text": "Or"
+      },
+      {
+        "option_id": "D",
+        "text": "Because"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 4 Linkers (page 104): 'Though he was honest, he was punished.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u04_09",
+        "pdf_page_index": 107,
+        "printed_page_label": "104"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u04_010",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u04",
+    "chapter_title": "Unit 4: The Attic",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Walk carefully ______ you will fall down.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "unless"
+      },
+      {
+        "option_id": "B",
+        "text": "otherwise"
+      },
+      {
+        "option_id": "C",
+        "text": "while"
+      },
+      {
+        "option_id": "D",
+        "text": "although"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 4 Linkers (page 104): 'Walk carefully otherwise you will fall down.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u04_10",
+        "pdf_page_index": 107,
+        "printed_page_label": "104"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u05_001",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u05",
+    "chapter_title": "Unit 5: Tech Bloomers",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "In 'A Day in 2889 of an American Journalist', Bennett's wife was in ______.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Germany"
+      },
+      {
+        "option_id": "B",
+        "text": "Australia"
+      },
+      {
+        "option_id": "C",
+        "text": "France"
+      },
+      {
+        "option_id": "D",
+        "text": "Holland"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Unit 5 (page 159): 'Bennett's wife was in France, taking eight days off at the Centropolis.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u05_01",
+        "pdf_page_index": 162,
+        "printed_page_label": "159"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u05_002",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u05",
+    "chapter_title": "Unit 5: Tech Bloomers",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The data from the stellar world was gathered by ______ in the year 2889.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Bennett himself"
+      },
+      {
+        "option_id": "B",
+        "text": "astronomical reporters"
+      },
+      {
+        "option_id": "C",
+        "text": "the computer"
+      },
+      {
+        "option_id": "D",
+        "text": "telephote operators"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 5 (page 159): 'The data from the stellar world was gathered by astronomical reporters.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u05_02",
+        "pdf_page_index": 162,
+        "printed_page_label": "159"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u05_003",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u05",
+    "chapter_title": "Unit 5: Tech Bloomers",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "In the 29th century, food was delivered to homes through ______ tubes.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "pneumatic"
+      },
+      {
+        "option_id": "B",
+        "text": "shallow"
+      },
+      {
+        "option_id": "C",
+        "text": "hollow"
+      },
+      {
+        "option_id": "D",
+        "text": "virtual"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 5 (page 159): 'Food was being delivered through pneumatic tubes.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u05_03",
+        "pdf_page_index": 162,
+        "printed_page_label": "159"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u05_004",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u05",
+    "chapter_title": "Unit 5: Tech Bloomers",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Wayfarers in the city were carried from one place to another by ______ in the year 2889.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "bullet trains"
+      },
+      {
+        "option_id": "B",
+        "text": "supersonic jets"
+      },
+      {
+        "option_id": "C",
+        "text": "moving pavements"
+      },
+      {
+        "option_id": "D",
+        "text": "heli-taxis"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Unit 5 (page 159): 'The wayfarers were carried from one place to another by moving pavements.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u05_04",
+        "pdf_page_index": 162,
+        "printed_page_label": "159"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u05_005",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u05",
+    "chapter_title": "Unit 5: Tech Bloomers",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Which assistive technology helps Alisha type words on screen with eye movements?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "ECO2 with ECO point"
+      },
+      {
+        "option_id": "B",
+        "text": "Braille printer"
+      },
+      {
+        "option_id": "C",
+        "text": "Hearing loop"
+      },
+      {
+        "option_id": "D",
+        "text": "Stylus pen"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 5 'Tech Bloomers' (page 129): 'Alisha uses an ECO2 with ECO point which allows her to communicate and type through eye movements.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u05_05",
+        "pdf_page_index": 132,
+        "printed_page_label": "129"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u05_006",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u05",
+    "chapter_title": "Unit 5: Tech Bloomers",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "David uses a ______ which communicates through speech synthesizer technology.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Bluetooth keyboard"
+      },
+      {
+        "option_id": "B",
+        "text": "Liberator Communication Device"
+      },
+      {
+        "option_id": "C",
+        "text": "Typewriter"
+      },
+      {
+        "option_id": "D",
+        "text": "Walkie-talkie"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 5 'Tech Bloomers' (page 130): 'David uses a Liberator Communication Device operated by head switches.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u05_06",
+        "pdf_page_index": 133,
+        "printed_page_label": "130"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u05_007",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u05",
+    "chapter_title": "Unit 5: Tech Bloomers",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Who wrote the science-fiction story 'A Day in 2889 of an American Journalist'?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Jules Verne"
+      },
+      {
+        "option_id": "B",
+        "text": "H. G. Wells"
+      },
+      {
+        "option_id": "C",
+        "text": "Arthur C. Clarke"
+      },
+      {
+        "option_id": "D",
+        "text": "Isaac Asimov"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 5 (page 157): Jules Verne (1828–1905) was a French author and pioneer of science fiction.",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u05_07",
+        "pdf_page_index": 160,
+        "printed_page_label": "157"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u05_008",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u05",
+    "chapter_title": "Unit 5: Tech Bloomers",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What does the abbreviation 'GPS' stand for in technology?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Global Position System"
+      },
+      {
+        "option_id": "B",
+        "text": "Global Positioning System"
+      },
+      {
+        "option_id": "C",
+        "text": "General Placement System"
+      },
+      {
+        "option_id": "D",
+        "text": "Ground Positioning Sensor"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 5 Technology Acronyms (page 133): GPS stands for Global Positioning System.",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u05_08",
+        "pdf_page_index": 136,
+        "printed_page_label": "133"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u06_001",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u06",
+    "chapter_title": "Unit 6: The Last Lesson",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Who is the author of the poignant short story 'The Last Lesson'?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Alphonse Daudet"
+      },
+      {
+        "option_id": "B",
+        "text": "Guy de Maupassant"
+      },
+      {
+        "option_id": "C",
+        "text": "Victor Hugo"
+      },
+      {
+        "option_id": "D",
+        "text": "Emile Zola"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 6 'About the Author' (page 169): Alphonse Daudet (1840–1897) was a French novelist and short-story writer.",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u06_01",
+        "pdf_page_index": 172,
+        "printed_page_label": "169"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u06_002",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u06",
+    "chapter_title": "Unit 6: The Last Lesson",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Why was Franz afraid of going to school that morning?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "He had not prepared his lesson on participles"
+      },
+      {
+        "option_id": "B",
+        "text": "He lost his French notebook"
+      },
+      {
+        "option_id": "C",
+        "text": "The Prussian soldiers had surrounded the school"
+      },
+      {
+        "option_id": "D",
+        "text": "He broke the classroom window"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 6 (page 162): 'M. Hamel had said that he would question us on participles, and I did not know the first word about them.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u06_02",
+        "pdf_page_index": 165,
+        "printed_page_label": "162"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u06_003",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u06",
+    "chapter_title": "Unit 6: The Last Lesson",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What order had come from Berlin regarding the schools of Alsace and Lorraine?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Only German would be taught"
+      },
+      {
+        "option_id": "B",
+        "text": "Schools would remain closed for three months"
+      },
+      {
+        "option_id": "C",
+        "text": "All French books must be burned"
+      },
+      {
+        "option_id": "D",
+        "text": "Students must enlist in the army"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 6 (page 163): 'An order has come from Berlin to teach only German in the schools of Alsace and Lorraine.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u06_03",
+        "pdf_page_index": 166,
+        "printed_page_label": "163"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u06_004",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u06",
+    "chapter_title": "Unit 6: The Last Lesson",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What words did M. Hamel write on the blackboard before ending the last lesson?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Vive La France!"
+      },
+      {
+        "option_id": "B",
+        "text": "Au Revoir!"
+      },
+      {
+        "option_id": "C",
+        "text": "Liberte et Fraternite!"
+      },
+      {
+        "option_id": "D",
+        "text": "Dieu Sauve La France!"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 6 (page 165): 'He took a piece of chalk, and bearing on with all his might, he wrote as large as he could: Vive La France!'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u06_04",
+        "pdf_page_index": 168,
+        "printed_page_label": "165"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u06_005",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u06",
+    "chapter_title": "Unit 6: The Last Lesson",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The quality of the dal ______ not good.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "is"
+      },
+      {
+        "option_id": "B",
+        "text": "are"
+      },
+      {
+        "option_id": "C",
+        "text": "were"
+      },
+      {
+        "option_id": "D",
+        "text": "have"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 6 Subject-Verb Agreement (page 176): 'The quality of dal is not good' (singular subject 'quality').",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u06_05",
+        "pdf_page_index": 179,
+        "printed_page_label": "176"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u06_006",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u06",
+    "chapter_title": "Unit 6: The Last Lesson",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "My friend and teacher ______ come.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "has"
+      },
+      {
+        "option_id": "B",
+        "text": "have"
+      },
+      {
+        "option_id": "C",
+        "text": "are"
+      },
+      {
+        "option_id": "D",
+        "text": "were"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 6 Rule 4 (page 175): 'When two singular nouns refer to the same person, the verb must be singular (has).'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u06_06",
+        "pdf_page_index": 179,
+        "printed_page_label": "176"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u06_007",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u06",
+    "chapter_title": "Unit 6: The Last Lesson",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Neither food nor water ______ found on the abandoned island.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "was"
+      },
+      {
+        "option_id": "B",
+        "text": "were"
+      },
+      {
+        "option_id": "C",
+        "text": "are"
+      },
+      {
+        "option_id": "D",
+        "text": "have been"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 6 (page 176): 'Neither food nor water was found here.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u06_07",
+        "pdf_page_index": 179,
+        "printed_page_label": "176"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u06_008",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u06",
+    "chapter_title": "Unit 6: The Last Lesson",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Mathematics ______ an interesting branch of study.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "are"
+      },
+      {
+        "option_id": "B",
+        "text": "is"
+      },
+      {
+        "option_id": "C",
+        "text": "were"
+      },
+      {
+        "option_id": "D",
+        "text": "have been"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 6 Rule 9 (page 175): 'Nouns that are plural in form but singular in meaning take a singular verb (Mathematics is).'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u06_08",
+        "pdf_page_index": 179,
+        "printed_page_label": "176"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u06_009",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u06",
+    "chapter_title": "Unit 6: The Last Lesson",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Fifteen minutes ______ allowed to read the question paper.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "are"
+      },
+      {
+        "option_id": "B",
+        "text": "is"
+      },
+      {
+        "option_id": "C",
+        "text": "were"
+      },
+      {
+        "option_id": "D",
+        "text": "have"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 6 Rule 6 (page 175): 'When a plural noun expresses a specific duration considered as a whole, verb is singular (Fifteen minutes is).'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u06_09",
+        "pdf_page_index": 179,
+        "printed_page_label": "176"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u07_001",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u07",
+    "chapter_title": "Unit 7: The Dying Detective",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Who came to Dr. Watson's lodgings to inform him about Sherlock Holmes's critical illness?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Mrs. Hudson"
+      },
+      {
+        "option_id": "B",
+        "text": "Inspector Morton"
+      },
+      {
+        "option_id": "C",
+        "text": "Culverton Smith"
+      },
+      {
+        "option_id": "D",
+        "text": "Victor Savage"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 7 opening lines (page 189): 'Mrs. Hudson, the landlady of Sherlock Holmes, came to me and said... he is dying.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u07_01",
+        "pdf_page_index": 192,
+        "printed_page_label": "189"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u07_002",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u07",
+    "chapter_title": "Unit 7: The Dying Detective",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Sherlock Holmes pretended to be suffering from which contagious illness?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Black Plague"
+      },
+      {
+        "option_id": "B",
+        "text": "Tarpaunli fever / Formosa black disease"
+      },
+      {
+        "option_id": "C",
+        "text": "Typhoid"
+      },
+      {
+        "option_id": "D",
+        "text": "Cholera"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 7 (page 190): Holmes feigned infection with the deadly Formosa black disease from Sumatra.",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u07_02",
+        "pdf_page_index": 193,
+        "printed_page_label": "190"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u07_003",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u07",
+    "chapter_title": "Unit 7: The Dying Detective",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Who was the planter from Sumatra whom Holmes tricked into confessing the murder of Victor Savage?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Culverton Smith"
+      },
+      {
+        "option_id": "B",
+        "text": "Stapleton"
+      },
+      {
+        "option_id": "C",
+        "text": "Dr. Roylott"
+      },
+      {
+        "option_id": "D",
+        "text": "John Clay"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 7 (page 191): 'Culverton Smith was a well-known planter with expert knowledge of the oriental disease.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u07_03",
+        "pdf_page_index": 194,
+        "printed_page_label": "191"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u07_004",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u07",
+    "chapter_title": "Unit 7: The Dying Detective",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "In 'A Dilemma', the narrator was sent for by his uncle when the uncle was ______.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "on his deathbed"
+      },
+      {
+        "option_id": "B",
+        "text": "on his travels"
+      },
+      {
+        "option_id": "C",
+        "text": "in his workplace"
+      },
+      {
+        "option_id": "D",
+        "text": "in the hospital"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 7 Supplementary 'A Dilemma' (page 211): 'The narrator was sent for, by his uncle when he was on his deathbed.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u07_04",
+        "pdf_page_index": 214,
+        "printed_page_label": "211"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u07_005",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u07",
+    "chapter_title": "Unit 7: The Dying Detective",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What had Tom's eccentric uncle collected with lifelong passion?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "Gold bars"
+      },
+      {
+        "option_id": "B",
+        "text": "Precious stones"
+      },
+      {
+        "option_id": "C",
+        "text": "Ancient stamps"
+      },
+      {
+        "option_id": "D",
+        "text": "Antique clocks"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 7 Supplementary (page 211): 'The uncle had collected precious stones and gems.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u07_05",
+        "pdf_page_index": 214,
+        "printed_page_label": "211"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u07_006",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u07",
+    "chapter_title": "Unit 7: The Dying Detective",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "What mechanism did Tom's uncle warn was placed inside the iron box?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "A sensitive dynamite bomb that would explode if shaken"
+      },
+      {
+        "option_id": "B",
+        "text": "A secret combination lock"
+      },
+      {
+        "option_id": "C",
+        "text": "A poison needle"
+      },
+      {
+        "option_id": "D",
+        "text": "A glass vial of acid"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 7 Supplementary (page 211): 'The letter stated that the box contained sensitive dynamite that would explode upon being shaken.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u07_06",
+        "pdf_page_index": 214,
+        "printed_page_label": "211"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u07_007",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u07",
+    "chapter_title": "Unit 7: The Dying Detective",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "To whom did Tom ultimately bequeath the locked iron box?",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "To his offspring"
+      },
+      {
+        "option_id": "B",
+        "text": "To his friends"
+      },
+      {
+        "option_id": "C",
+        "text": "To the Society"
+      },
+      {
+        "option_id": "D",
+        "text": "To the national museum"
+      }
+    ],
+    "correct_option_id": "C",
+    "explanation": "Textbook Unit 7 Supplementary (page 211): 'At last, he bequeathed the box to the Society for the Preservation of Human Life.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u07_07",
+        "pdf_page_index": 214,
+        "printed_page_label": "211"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u07_008",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u07",
+    "chapter_title": "Unit 7: The Dying Detective",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "The shepherd ______ the cry of his sheep in the valley.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "herd"
+      },
+      {
+        "option_id": "B",
+        "text": "heard"
+      },
+      {
+        "option_id": "C",
+        "text": "hard"
+      },
+      {
+        "option_id": "D",
+        "text": "horde"
+      }
+    ],
+    "correct_option_id": "B",
+    "explanation": "Textbook Unit 7 Confusable Words (page 195): 'The shepherd heard the cry of his sheep.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u07_08",
+        "pdf_page_index": 198,
+        "printed_page_label": "195"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  },
+  {
+    "question_id": "q_eng__u07_009",
+    "subject_id": "english",
+    "source_id": "src_tn_eng_10_2024",
+    "chapter_id": "eng_u07",
+    "chapter_title": "Unit 7: The Dying Detective",
+    "language": "en",
+    "origin": "textbook",
+    "question_type": "mcq",
+    "question_text": "Leaders of the world must work towards the ______ of the human race.",
+    "options": [
+      {
+        "option_id": "A",
+        "text": "peace"
+      },
+      {
+        "option_id": "B",
+        "text": "piece"
+      },
+      {
+        "option_id": "C",
+        "text": "pace"
+      },
+      {
+        "option_id": "D",
+        "text": "price"
+      }
+    ],
+    "correct_option_id": "A",
+    "explanation": "Textbook Unit 7 Confusable Words (page 195): 'Leaders of the world must work towards the peace of human race.'",
+    "source_refs": [
+      {
+        "passage_id": "pas_eng__u07_09",
+        "pdf_page_index": 198,
+        "printed_page_label": "195"
+      }
+    ],
+    "difficulty": "medium",
+    "review_status": "verified",
+    "reviewed_by": "tn_textbook_committee",
+    "reviewed_at": "2026-01-15T10:00:00Z",
+    "content_version": 1
+  }
+]

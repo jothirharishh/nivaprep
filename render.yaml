@@ -22,7 +22,7 @@ services:
       - key: FLASK_DEBUG
         value: "0"
       - key: GROQ_MODEL
-        value: llama-3.3-70b-versatile
+        value: openai/gpt-oss-120b
       - key: DATABASE_URL
         sync: false   # Enter your Supabase connection string in Render Dashboard
       - key: GROQ_API_KEY

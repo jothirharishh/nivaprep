@@ -108,6 +108,30 @@ def _call_groq(
                 raise GroqError(f"Unexpected Groq response shape: {exc}") from exc
 
         if resp.status_code not in _RETRYABLE_STATUS:
+            # Self-healing: if model is not available on this Groq account, discover and auto-switch
+            if resp.status_code == 404 and "model_not_found" in resp.text:
+                logger.warning(
+                    "Configured model %s not available on this Groq account. Discovering supported models...",
+                    cfg.groq_model,
+                )
+                try:
+                    models_resp = client.get("https://api.groq.com/openai/v1/models", headers=headers)
+                    if models_resp.status_code == 200:
+                        avail = [m["id"] for m in models_resp.json().get("data", [])]
+                        for pref in ["openai/gpt-oss-120b", "openai/gpt-oss-20b", "qwen/qwen3.8-27b", "llama-3.3-70b-versatile"]:
+                            if pref in avail:
+                                logger.info("Auto-switching to available model: %s", pref)
+                                payload["model"] = pref
+                                if "oss" in pref.lower():
+                                    payload["reasoning_effort"] = "low"
+                                else:
+                                    payload.pop("reasoning_effort", None)
+                                retry_resp = client.post(GROQ_CHAT_URL, headers=headers, json=payload)
+                                if retry_resp.status_code == 200:
+                                    return retry_resp.json()["choices"][0]["message"]["content"]
+                except Exception as auto_err:
+                    logger.warning("Auto model discovery failed: %s", auto_err)
+
             raise GroqError(
                 f"Groq returned non-retryable status {resp.status_code}: {resp.text[:200]}"
             )

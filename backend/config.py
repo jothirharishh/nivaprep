@@ -77,7 +77,7 @@ class Config:
 
         return cls(
             groq_api_key=groq_api_key,
-            groq_model=os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile"),
+            groq_model=os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b"),
             groq_max_retries=int(os.environ.get("GROQ_MAX_RETRIES", "3")),
             groq_timeout_seconds=float(os.environ.get("GROQ_TIMEOUT_SECONDS", "30")),
             flask_secret_key=flask_secret_key,

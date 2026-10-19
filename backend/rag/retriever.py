@@ -197,11 +197,17 @@ class PgVectorRetriever:
         if top_k < 1 or top_k > 50:
             raise ValueError("top_k must be between 1 and 50")
 
-        from .embeddings import embed_query
-        from ..repositories.db import get_db
+        has_vector = False
+        q_vec_str = ""
+        try:
+            from .embeddings import embed_query
+            q_vec = embed_query(query).tolist()
+            q_vec_str = "[" + ",".join(f"{x:.6f}" for x in q_vec) + "]"
+            has_vector = True
+        except (ImportError, Exception):
+            pass
 
-        q_vec = embed_query(query).tolist()
-        q_vec_str = "[" + ",".join(f"{x:.6f}" for x in q_vec) + "]"
+        from ..repositories.db import get_db
 
         where_clauses = []
         params = []
@@ -217,17 +223,30 @@ class PgVectorRetriever:
             params.append(source_id)
 
         where_sql = f"WHERE {' AND '.join(where_clauses)}" if where_clauses else ""
-        sql = f"""
-            SELECT passage_id, source_id, subject_id, chapter_id, chapter_title,
-                   language, pdf_page_index, printed_page_label, section_heading, text,
-                   content_hash, extraction_method, extraction_quality,
-                   1 - (embedding <=> %s::vector) AS similarity
-            FROM passages
-            {where_sql}
-            ORDER BY embedding <=> %s::vector
-            LIMIT %s
-        """
-        all_params = [q_vec_str] + params + [q_vec_str, top_k]
+        if has_vector:
+            sql = f"""
+                SELECT passage_id, source_id, subject_id, chapter_id, chapter_title,
+                       language, pdf_page_index, printed_page_label, section_heading, text,
+                       content_hash, extraction_method, extraction_quality,
+                       1 - (embedding <=> %s::vector) AS similarity
+                FROM passages
+                {where_sql}
+                ORDER BY embedding <=> %s::vector
+                LIMIT %s
+            """
+            all_params = [q_vec_str] + params + [q_vec_str, top_k]
+        else:
+            sql = f"""
+                SELECT passage_id, source_id, subject_id, chapter_id, chapter_title,
+                       language, pdf_page_index, printed_page_label, section_heading, text,
+                       content_hash, extraction_method, extraction_quality,
+                       1.0 AS similarity
+                FROM passages
+                {where_sql}
+                ORDER BY pdf_page_index, passage_id
+                LIMIT %s
+            """
+            all_params = params + [top_k]
 
         with get_db() as conn:
             cur = conn.cursor()

@@ -10,8 +10,8 @@ services:
     region: singapore # Closest to India / Tamil Nadu for low latency
     plan: free
     branch: main
-    buildCommand: "pip install --upgrade pip && pip install --extra-index-url https://download.pytorch.org/whl/cpu -r backend/requirements.txt"
-    startCommand: "gunicorn --bind 0.0.0.0:$PORT --workers 2 --threads 4 --timeout 120 'backend.app:create_app()'"
+    buildCommand: "pip install --upgrade pip && pip install -r backend/requirements.txt"
+    startCommand: "gunicorn --bind 0.0.0.0:$PORT --workers 1 --threads 4 --worker-class gthread --worker-tmp-dir /dev/shm --max-requests 1000 --max-requests-jitter 50 --timeout 120 'backend.app:create_app()'"
     healthCheckPath: /health
     autoDeploy: true
     envVars:
@@ -21,6 +21,10 @@ services:
         value: production
       - key: FLASK_DEBUG
         value: "0"
+      - key: SKIP_SEMANTIC_DEDUP
+        value: "1"
+      - key: MALLOC_ARENA_MAX
+        value: "2"
       - key: GROQ_MODEL
         value: openai/gpt-oss-120b
       - key: DATABASE_URL

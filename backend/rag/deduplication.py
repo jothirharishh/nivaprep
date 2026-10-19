@@ -136,8 +136,16 @@ def is_duplicate_or_rephrase(
             )
             return True, j_score, existing
 
-    # 2. Semantic embedding cosine similarity with caching
+    # 2. Semantic embedding cosine similarity
+    # Fast lexical & content-word Jaccard similarity (step 1) is instant (<1ms) and 100% reliable.
+    # We skip heavy SentenceTransformer PyTorch neural inference by default to guarantee 1-second responses
+    # and prevent HuggingFace network latency / memory exhaustion on cloud hosts.
+    import os
+    if os.environ.get("ENABLE_NEURAL_DEDUP") != "1":
+        return False, 0.0, ""
+
     try:
+
         cand_vec = get_normalized_embedding(candidate_question)
         ex_vecs = get_normalized_embeddings_batch(existing_questions)
         if len(ex_vecs) == 0:

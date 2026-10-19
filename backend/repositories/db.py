@@ -6,6 +6,7 @@ from __future__ import annotations
 
 import sqlite3
 import os
+import re
 from contextlib import contextmanager
 from typing import Generator
 
@@ -22,13 +23,32 @@ def get_database_path() -> str:
     return _DATABASE_PATH
 
 
+def _translate_sqlite_to_pg(sql: str) -> str:
+    """Translate SQLite-specific SQL constructs into PostgreSQL-compatible syntax."""
+    pg_sql = sql.replace("?", "%s")
+    if re.search(r"^\s*INSERT\s+OR\s+IGNORE\s+INTO\b", pg_sql, re.IGNORECASE):
+        pg_sql = re.sub(r"^\s*INSERT\s+OR\s+IGNORE\s+INTO\b", "INSERT INTO", pg_sql, flags=re.IGNORECASE)
+        if "ON CONFLICT" not in pg_sql.upper():
+            pg_sql = pg_sql.rstrip().rstrip(";") + " ON CONFLICT DO NOTHING"
+    elif re.search(r"^\s*INSERT\s+OR\s+REPLACE\s+INTO\b", pg_sql, re.IGNORECASE):
+        pg_sql = re.sub(r"^\s*INSERT\s+OR\s+REPLACE\s+INTO\b", "INSERT INTO", pg_sql, flags=re.IGNORECASE)
+        if "ON CONFLICT" not in pg_sql.upper():
+            if "chapters" in pg_sql.lower():
+                pg_sql = pg_sql.rstrip().rstrip(";") + " ON CONFLICT (chapter_id) DO UPDATE SET title = EXCLUDED.title, status = EXCLUDED.status"
+            elif "questions" in pg_sql.lower():
+                pg_sql = pg_sql.rstrip().rstrip(";") + " ON CONFLICT (question_id) DO UPDATE SET question_text = EXCLUDED.question_text"
+            else:
+                pg_sql = pg_sql.rstrip().rstrip(";") + " ON CONFLICT DO NOTHING"
+    return pg_sql
+
+
 class _PostgresCursorWrapper:
     """Wraps psycopg2 cursor to provide SQLite-compatible execution."""
     def __init__(self, cur):
         self._cur = cur
 
     def execute(self, sql: str, params=None):
-        pg_sql = sql.replace("?", "%s")
+        pg_sql = _translate_sqlite_to_pg(sql)
         self._cur.execute(pg_sql, params)
         return self
 
@@ -63,7 +83,7 @@ class _PostgresConnectionWrapper:
     def execute(self, sql: str, params=None):
         import psycopg2.extras
         cur = self._conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
-        pg_sql = sql.replace("?", "%s")
+        pg_sql = _translate_sqlite_to_pg(sql)
         cur.execute(pg_sql, params)
         return _PostgresCursorWrapper(cur)
 

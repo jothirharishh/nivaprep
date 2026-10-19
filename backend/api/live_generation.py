@@ -382,15 +382,27 @@ def _persist_live_question(
 
     try:
         with get_db() as conn:
-            conn.execute(
-                """INSERT OR IGNORE INTO questions (
+            if cfg.is_postgres:
+                insert_sql = """INSERT INTO questions (
                     question_id, subject_id, source_id, chapter_id, chapter_title,
                     language, origin, question_type, question_text,
                     options_json, correct_option_id, explanation,
                     source_refs_json, difficulty, review_status,
                     model_provider, model_id, prompt_version,
                     content_version, created_at, updated_at
-                ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+                ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+                ON CONFLICT (question_id) DO NOTHING"""
+            else:
+                insert_sql = """INSERT OR IGNORE INTO questions (
+                    question_id, subject_id, source_id, chapter_id, chapter_title,
+                    language, origin, question_type, question_text,
+                    options_json, correct_option_id, explanation,
+                    source_refs_json, difficulty, review_status,
+                    model_provider, model_id, prompt_version,
+                    content_version, created_at, updated_at
+                ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)"""
+            conn.execute(
+                insert_sql,
                 (
                     live_qid,
                     subject_id,
